@@ -90,7 +90,6 @@ def main(argv):
         
     print('Input file is ', inputfile)
     print('Output file is ', outputfile)
-    if supplier in (1)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
