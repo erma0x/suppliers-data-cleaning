@@ -8,3 +8,10 @@
 
 ### USAGE
 python3 app/cleaning_supplier_data.py -s yakima -i /home/moebius/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_adjusted.csv -o /home/moebius/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_NEEEW.csv
+
+
+### Git Workflow
+git pull
+git add .
+git commit -m 'messaggio'
+git push origin
