@@ -13,4 +13,3 @@ python3 app/cleaning_supplier_data.py -s yakima -i /home/moebius/Desktop/cleanin
 - git pull
 - git add .
 - git commit -m 'messaggio'
-- git push origin

@@ -127,7 +127,6 @@ def main(argv):
     -s --supplier:       supplier id or name (1:'yamaha')
     -i --input-csv:     .csv file name 
     -o --output-csv:    .csv file name
-    -d --date:          default=False, se True processa le date
 
     """
     
@@ -172,7 +171,8 @@ def main(argv):
         
         df_yakima=supplier_yakima.load_csv() #read csv
         
-        df_yakima.pipe(supplier_yakima.process_datetime) #pipeline
+        (df_yakima.pipe(supplier_yakima.process_datetime).pipe(supplier_yakima.remove_inside_brakets)
+        ) #pipeline
         
         df_yakima.to_csv(supplier_yakima.get_output_file_path(),sep='\t') #save csv
 
@@ -188,8 +188,21 @@ def main(argv):
         df_greenvalley.pipe(supplier_greenvalley.process_datetime).pipe(supplier_greenvalley.remove_inside_brakets) #pipeline
         
         df_greenvalley.to_csv(supplier_greenvalley.get_output_file_path(),sep='\t') #save csv
+
+
+    elif supplier in ('pirelli'): 
+
+        supplier_pirelli = Pirelli()
+        supplier_pirelli.set_input_file_path(inputfile)        
+        supplier_pirelli.set_output_file_path(outputfile)
         
+        df_pirelli = supplier_pirelli.load_csv() #read csv
+
+        df_pirelli.pipe(supplier_pirelli.process_datetime).pipe(supplier_pirelli.remove_inside_brakets) #pipeline
         
+        df_pirelli.to_csv(supplier_pirelli.get_output_file_path(),sep='\t') #save csv
+
+       
     else:
         print('please specify the suppliers with the option -s or --suppliers')
 
