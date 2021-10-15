@@ -1,3 +1,3 @@
 suppliers={
-    0:'yamaha',
-    1:'pirelli'}
+    0:'yakima',
+    1:'greenvalley'}

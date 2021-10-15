@@ -1,32 +1,18 @@
 #!/usr/bin/python
-import sys, getopt
-import numpy as np
+import sys,getopt 
 import pandas as pd
-from suppliers_names import suppliers
 from dataclasses import dataclass
-from pathlib import Path
-import argparse
-import getopt
+
+#projct modules
+from suppliers_names import suppliers
+
 
 @dataclass
-class Fornitore():
+class Supplier():
 
     input_file_path: str = ''
-    
-    def process_date(self):
-        pass
-    
-    def load_csv(self):
-        pass
+    output_file_path: str = ''
 
-
-
-@dataclass
-class Yakima(Fornitore):
-
-    input_file_path: str = 'suppliers_data/yakima_adjusted.csv'
-    output_file_path:str = 'suppliers_data/yakima_NEW.csv'
-    
     def set_input_file_path(self, file_input_path):
         self.input_file_path =  file_input_path 
 
@@ -38,9 +24,21 @@ class Yakima(Fornitore):
 
     def get_output_file_path(self):
         return self.output_file_path 
+        
+    def process_date(self):
+        print('ERROR: process date not configured')
     
+    def load_csv(self):
+        print('ERROR: load csv not configured')
 
-    def process_datetime(self, date_colum_name='Anno'):
+
+@dataclass
+class Yakima(Supplier):
+
+    input_file_path: str = 'app/suppliers_data/yakima_adjusted.csv'
+    output_file_path:str = 'app/suppliers_data/yakima_NEW.csv'
+        
+    def process_datetime(self, dataframe, date_colum_name='Anno'):
         """ reformat strange datetime 
             
         examples:    
@@ -50,12 +48,11 @@ class Yakima(Fornitore):
                    a)   1990-
                    b)   1992-2006
         """
-        dataframe=self.load_csv()
         
+
         df_adjusted_dates = dataframe[date_colum_name].copy()
 
         for i in range(len(df_adjusted_dates)):
-
             list_of_dates = df_adjusted_dates[i].split('>')
             
             for j in range(len(list_of_dates)):
@@ -71,31 +68,56 @@ class Yakima(Fornitore):
         dataframe[date_colum_name] = df_adjusted_dates
         return dataframe
     
+    
     def load_csv(self):
         df = pd.read_csv(self.input_file_path, sep=',')
         return df
-
-
-
+    
+    def remove_inside_brakets(self,dataframe,column_name='Modello'):
+        import re
+        mock_df = dataframe.copy()
+        for i in range(len(mock_df)):
+           string_before = dataframe[column_name][i]
+           string_after = re.sub("[\(\[].*?[\)\]]", "", string_before)
+           dataframe[column_name][i]=string_after
+        return dataframe
         
-class Pirelli(Fornitore):
+class Greenvalley(Supplier):
     
-    def __init__(self):
-        pass
+    input_file_path: str = 'app/suppliers_data/greenvalley_aurilis_adjusted.csv.csv'
+    output_file_path:str = 'app/suppliers_data/greenvalley_aurilis_NEW.csv'
     
-    def process_date(self):
-        pass
+    def process_datetime(self, dataframe, date_colum_name='Anno',date_colum_name2='Anno2'):
+        """ reformat strange datetime 
+        """
+        
+        df_anno1 = dataframe[date_colum_name].copy().astype(str).str.replace("\.0", "")
+        df_anno2 = dataframe[date_colum_name2].copy().astype(str).str.replace("\.0", "") 
+        dataframe[date_colum_name] = df_anno1+'-'+df_anno2
+        del dataframe[date_colum_name2]
+        
+        return dataframe
+    
     
     def load_csv(self):
-        pass
+        df = pd.read_csv(self.input_file_path, sep=',')
+        return df
+    
+    def remove_inside_brakets(self,dataframe,column_name='Vettura'):
+        import re
+        mock_df = dataframe.copy()
+        for i in range(len(mock_df)):
+           string_before = dataframe[column_name][i]
+           string_after = re.sub("[\(\[].*?[\)\]]", "", string_before)
+           dataframe[column_name][i]=string_after
+        return dataframe
     
 def main(argv):
-#def main():
     """
     PULIZIA DATI DEI FORNITORI
         polimorfismo di classi
-        ogni fornitore ha gli stessi metodi
-        per preprocessare i dati, ma ogni fornitore
+        ogni supplier ha gli stessi metodi
+        per preprocessare i dati, ma ogni supplier
         ha caratterstiche diverse, quindi fra di loro i metodi
         dei fornitori avranno diversi variazioni.
 
@@ -108,13 +130,12 @@ def main(argv):
     -d --date:          default=False, se True processa le date
 
     """
-    inputfile = ''
+    
+    inputfile = ''  # your default values
     outputfile = ''
     
-    #parser = argparse.ArgumentParser()
-    #parser.parse_args()
-
     
+    # Get the CLI argouments
     argv = sys.argv[1:]
   
     try:
@@ -125,9 +146,6 @@ def main(argv):
         sys.exit(2)
         
     for opt, arg in opts: # search options
-        #if opt in ['-h','--help']: 
-        #    print(main.__doc__)
-        #    sys.exit()
 
         if opt in ["-s"]:#, "--supplier"]: 
             supplier = arg
@@ -141,20 +159,36 @@ def main(argv):
         else:
             usage()
             sys.exit(2)        
-    
+
+    print('Supplier choosen ',supplier)    
     print('Input file is ', inputfile)
     print('Output file is ', outputfile)
-    
 
     if supplier in ('yakima','YAKIMA','0'):
-        fornitore_yakima = Yakima()
-        fornitore_yakima.set_input_file_path(inputfile)#sys.path[0]+'/suppliers_data/yakima_adjusted.csv')
-        fornitore_yakima.set_output_file_path(outputfile)#sys.path[0]+'/suppliers_data/yakima_NEW.csv')
-        fornitore_yakima.process_datetime().to_csv(fornitore_yakima.get_output_file_path())
-    
+        
+        supplier_yakima = Yakima()
+        supplier_yakima.set_input_file_path(inputfile)        
+        supplier_yakima.set_output_file_path(outputfile)       
+        
+        df_yakima=supplier_yakima.load_csv() #read csv
+        
+        df_yakima.pipe(supplier_yakima.process_datetime) #pipeline
+        
+        df_yakima.to_csv(supplier_yakima.get_output_file_path(),sep='\t') #save csv
+
     
     elif supplier in ('greenvalley','GREENVALLEY','1'): 
-        pass
+        
+        supplier_greenvalley = Greenvalley()
+        supplier_greenvalley.set_input_file_path(inputfile)        
+        supplier_greenvalley.set_output_file_path(outputfile)
+        
+        df_greenvalley = supplier_greenvalley.load_csv() #read csv
+
+        df_greenvalley.pipe(supplier_greenvalley.process_datetime).pipe(supplier_greenvalley.remove_inside_brakets) #pipeline
+        
+        df_greenvalley.to_csv(supplier_greenvalley.get_output_file_path(),sep='\t') #save csv
+        
         
     else:
         print('please specify the suppliers with the option -s or --suppliers')
@@ -162,4 +196,3 @@ def main(argv):
     
 if __name__ == "__main__":
     main(sys.argv[1:])
-    #main()

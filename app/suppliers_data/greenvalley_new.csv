@@ -1,0 +1,1202 @@
+	Marca	Vettura	Porte	Anno	Tipo Tetto	TettoVetro	KIT 	  Componibili  PIEDE  	TRAVERSE Acc 	Alu	Preassemblate E.O. SW Acc	Alu.1	Quick Acc	Alu.2	FREE LINE	Unnamed: 16	INITIAL	EASY ONE	EVO	Porta Bici Post.
+0	Abarth	 Abarth		nan-nan																
+1	Abarth	500	3	2007-nan	Tetto nudo	SI	281.0	500	513	613								67.0	67.0	NO
+2	Abarth	Punto	3	2005-2014	Tetto nudo	SI	251.0	500	507	607								56.0	56.0	NO
+3	Alfa Romeo	 Alfa Romeo		nan-nan																
+4	Alfa Romeo	146	4	1995-2001	Tetto nudo													34.0		NO
+5	Alfa Romeo	147	3	2000-2010	Tetto nudo	SI	311.0	500	507	607										NO
+6	Alfa Romeo	147	5	2000-2010	Tetto nudo	SI	245.0	500	507	607								48.0	48.0	NO
+7	Alfa Romeo	155	4	1992-1997	Tetto nudo													20.0		NO
+8	Alfa Romeo	156	4	1997-2007	Tetto nudo													34.0		RT
+9	Alfa Romeo	156 Crosswagon	5	2004-2007	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+10	Alfa Romeo	156 SW	5	2000-2006	Tetto nudo	SI												34.0		NO
+11	Alfa Romeo	156 SW	5	2000-2006	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+12	Alfa Romeo	159	4	2005-2013	Tetto nudo	SI	238.0	500	507	607								23.0	57.0	SI
+13	Alfa Romeo	159 SW	5	2005-2013	Tetto nudo	SI	238.0	500	507	607								23.0	57.0	NO
+14	Alfa Romeo	159 SW	5	2005-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+15	Alfa Romeo	164	4	1987-1998	Tetto nudo	SI												34.0		NO
+16	Alfa Romeo	75	4	1985-1992	Tetto nudo													24.0	24.0	NO
+17	Alfa Romeo	Giulia	4	2016-nan	Tetto nudo	NV	337.0	500	513	613								82.0	82.0	SI
+18	Alfa Romeo	Giulietta	5	2010-nan	Tetto nudo	NO	239.0	500	507	607										AL-RT
+19	Alfa Romeo	Mito	3	2008-2018	Punti fissi	SI	110.0	500	507	607								10.0	10.0	SI
+20	Alfa Romeo	Stelvio	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+21	Audi	 Audi		nan-nan																
+22	Audi	80 SW	5	1992-1995	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+23	Audi	A1 	3	2010-2018	Tetto nudo	NO	289.0	500	513	613										NO
+24	Audi	A1 	5	2018-nan	Tetto nudo	NV													89.0	NO
+25	Audi	A1 Sportback 	5	2011-2018	Tetto nudo	NO	279.0	500	513	613								65.0	65.0	NO
+26	Audi	A1 Sportback 	5	2011-2018	Tetto nudo	SI												65.0	65.0	NO
+27	Audi	A3 	3	1996-2003	Tetto nudo													23.0	23.0	AL
+28	Audi	A3 	3	2003-2012	Tetto nudo	NO	277.0	500	513	613								32.0	32.0	AL
+29	Audi	A3 	3	2003-2012	Tetto nudo	SI												32.0	32.0	AL
+30	Audi	A3 	3	2012-2017	Tetto nudo	NO	278.0	500	520	620										NO
+31	Audi	A3 Berlina 	4	2013-2020	Tetto nudo	NO	343.0	500	520	620										NV
+32	Audi	A3 Sportback 	5	2004-2012	Tetto nudo	NV	372.0	500	513	613								45.0	36.0	NO
+33	Audi	A3 Sportback 	5	2004-2013	Profili integrati	SI	401.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				AL
+34	Audi	A3 Sportback 	5	2012-2020	Tetto nudo	NO	308.0	500	520	620									84.0	NO
+35	Audi	A3 Sportback 	5	2012-2020	Tetto nudo	SI													84.0	NO
+36	Audi	A3 Sportback 	5	2012-2020	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+37		A3 	5	2020-nan	Tetto nudo														89.0	
+38	Audi	A4 	4	2000-2004	Tetto nudo		359.0	500	513	613								25.0	59.0	SI
+39	Audi	A4 	4	2004-2007	Tetto nudo		359.0	500	513	613										SI
+40	Audi	A4 	4	2008-2015	Tetto nudo	SI	359.0	500	520	620										SI
+41	Audi	A4 	4	2016-nan	Tetto nudo	NO	356.0	500	513	613										SI
+42	Audi	A4 Allroad 	5	2009-2015	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			AL
+43	Audi	A4 Allroad 	5	2016-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			NO
+44	Audi	A4 SW 	5	1995-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+45	Audi	A4 SW 	5	2004-2008	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+46	Audi	A4 SW 	5	2008-2015	Profili integrati	SI	410.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				AL
+47	Audi	A4 SW 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+48	Audi	A5 	2-4	2007-2016																2B
+49	Audi	A6 	4	1997-2004																SI
+50	Audi	A6 	4	2004-2011	Tetto nudo		310.0	500	520	620										SI
+51	Audi	A6 	4	2011-2018																SI
+52	Audi	A6 Allroad 	5	2000-2005	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-AB
+53	Audi	A6 Allroad 	5	2006-2012	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-AB
+54	Audi	A6 Allroad 	5	2012-2018	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			NO
+55	Audi	A6 SW 	5	1994-1997	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+56	Audi	A6 SW 	5	1998-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-AB
+57	Audi	A6 SW 	5	2005-2011	Profili integrati	SI	403.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				AL-AB
+58	Audi	A6 SW 	5	2011-2018	Profili integrati	SI		601	513	613			865.0	965.0		730				AA-AL-2B-RT
+59	Audi	A6 SW 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NV
+60	Audi	A8 	4	2009-2013																SI
+61	Audi	E-Tron	5	2019-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+62	Audi	Q2 	5	2017-nan	Tetto nudo	NO	340.0	500	520	620								78.0	78.0	NO
+63	Audi	Q2 	5	2017-nan	Tetto nudo	SI												78.0	78.0	NO
+64	Audi	Q3 	5	2011-2018	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+65	Audi	Q3 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NV
+66	Audi	Q5 	5	2008-2017	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+67	Audi	Q5 	5	2017-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+68	Audi	Q7 	5	2006-2015	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+69	Audi	Q8 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NV
+70	Bmw	 Bmw		nan-nan																
+71	Bmw	Serie 1 	3-5	2004-2011	Punti fissi	SI	103.0	500	507	607								3.0	3.0	AL
+72	Bmw	Serie 1 	3-5	2011-2019	Punti fissi	SI	103.0	500	507	607								3.0	3.0	AL-2B
+73	BMW	Serie 1 	5	2019-nan	Punti fissi	SI	126.0	500	507	607									91.0	NV
+74	Bmw	Serie 1 coupè 	3	2007-2013	Punti fissi	SI	103.0	500	507	607								3.0	3.0	AL
+75	Bmw	Serie 2 Active Tourer 	5	2014-nan	Tetto nudo	SI	325.0	500	520	620								72.0	72.0	NO
+76	Bmw	Serie 2 Active Tourer 	5	2014-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+77	Bmw	Serie 2 Coupè 	3	2014-nan	Punti fissi	SI	103.0	500	507	607								3.0	3.0	NO
+78	Bmw	Serie 2 Gran Tourer 	5	2014-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+79	Bmw	Serie 3 	4	1998-2005	Punti fissi	SI	103.0	500	507	607								3.0	3.0	SI
+80	Bmw	Serie 3 	4	2005-2012	Punti fissi	SI	103.0	500	507	607								3.0	3.0	SI
+81	Bmw	Serie 3 	4	2012-2019	Punti fissi	SI	103.0	500	507	607								3.0	3.0	SI
+82	BMW	Serie 3 	4	2019-nan	Punti fissi	SI	126.0	500	507	607									91.0	NV
+83	Bmw	Serie 3 coupè 	2	1999-2003																AB-RT
+84	Bmw	Serie 3 coupè 	2	2003-2006																RT
+85	Bmw	Serie 3 Coupè 	3	2006-2014	Punti fissi	SI	103.0	500	507	607								3.0	3.0	SI
+86	Bmw	Serie 3 GT 	5	2013-nan	Punti fissi	SI	103.0	500	513	613								3.0		NO
+87	Bmw	Serie 3 Touring 	5	1994-1999	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+88	Bmw	Serie 3 Touring 	5	1999-2002	Punti fissi	SI	103.0	500	507	607								3.0	3.0	AL
+89	Bmw	Serie 3 Touring 	5	1999-2002	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+90	Bmw	Serie 3 Touring 	5	2003-2005	Punti fissi	SI	103.0	500	507	607								3.0	3.0	NO
+91	Bmw	Serie 3 Touring 	5	2003-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+92	Bmw	Serie 3 Touring 	5	2005-2012	Punti fissi	SI	103.0	500	507	607								3.0	3.0	NO
+93	Bmw	Serie 3 Touring 	5	2005-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+94	Bmw	Serie 3 Touring 	5	2010-2012	Profili integrati	SI	408.0	600	520	620	830.0	930.0								NO
+95	Bmw	Serie 3 Touring 	5	2012-2019	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+96	Bmw	Serie 3 Touring 	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+97	Bmw	Serie 4 Coupè 	3	2013-nan	Punti fissi	SI	103.0	500	507	607								3.0	3.0	NO
+98	Bmw	Serie 4 Gran Coupè 	4	2014-nan	Punti fissi	SI	103.0	500	507	607								3.0	3.0	NO
+99	Bmw	Serie 5 	4	1995-2003																SI
+100	Bmw	Serie 5 	4	2003-2010	Tetto nudo		288.0	500	520	620								32.0	32.0	SI
+101	Bmw	Serie 5 GT 	5	2009-2017	Punti fissi	SI	103.0	500	526	626										NO
+102	Bmw	Serie 5 Touring 	5	1991-1997	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+103	Bmw	Serie 5 Touring 	5	1996-2003	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+104	Bmw	Serie 5 Touring 	5	2004-2011	Tetto nudo		288.0	500	520	620										NO
+105	Bmw	Serie 5 Touring 	5	2004-2011	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+106	Bmw	Serie 5 Touring 	5	2010-2017	Profili integrati	SI	415.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				NO
+107	Bmw	Serie 5 Touring 	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+108	Bmw	Serie 6 coupè 	2-4	2004-2011																SI
+109	Bmw	Serie 7 	4	1994-2001																SI
+110	Bmw	Serie 7 	4	2001-2008																SI
+111	Bmw	Serie 7 	4	2008-2014																SI
+112	Bmw	X1 	5	2009-2015	Profili integrati	SI		601	507	607			857.0	957.0		730				AL-2B
+113	Bmw	X1 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+114	Bmw	X2 	5	2019-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+115	Bmw	X3 	5	2004-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-AB
+116	Bmw	X3 	5	2011-2017	Profili integrati	SI	418.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				SI
+117	Bmw	X3 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+118	Bmw	X4 	5	2015-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+119	Bmw	X5 	5	1999-2007	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+120	Bmw	X5 	5	2007-2013	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+121	Bmw	X5 	5	2007-2013	Profili integrati	SI	408.0	600	542	642	830.0	930.0								NO
+122	Bmw	X5 	5	2014-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+123	Bmw	X6 	5	2015-nan	Profili integrati	SI		601	513	613			865.0	965.0						NO
+124	BMW	X7 	5	2019-nan	Barre lungitudinali	SI		600 / 601	526 / 513	626 / 613	830.0	930.0	865.0	965.0	530.0	730	● ○			NO
+125	Cadillac	 Cadillac		nan-nan																
+126	Cadillac	SRX	5	2004-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NV
+127	Cadillac	SRX	5	2013-2016	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NV
+128	Chevrolet	 Chevrolet		nan-nan																
+129	Chevrolet	Aveo	5	2006-2011																AL
+130	Chevrolet	Aveo II	5	2011-2016	Tetto nudo													23.0	57.0	AL
+131	Chevrolet	Captiva	5	2006-2016	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+132	Chevrolet	Cruze	4	2009-2016																RT
+133	Chevrolet	Cruze	5	2012-2017																AL
+134	Chevrolet	Cruze SW	5	2012-2016	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-2B
+135	Chevrolet	Kalos	3	2005-2008																AL
+136	Chevrolet	Kalos	5	2005-2008	Tetto nudo													23.0	57.0	AL
+137	Chevrolet	Lacetti SW	5	2004-2009	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+138	Chevrolet	Matiz	5	1998-2005	Tetto nudo													21.0	21.0	AL
+139	Chevrolet	Matiz	5	1998-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+140	Chevrolet	Matiz II	5	2005-2009	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+141	Chevrolet	Nubira SW	5	1997-2004																SI
+142	Chevrolet	Nubira SW	5	2004-2009	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+143	Chevrolet	Orlando	5	2010-2016																AL
+144	Chevrolet	Spark	5	2010-2016	Tetto nudo													23.0	57.0	AL
+145	Chevrolet	Spark	5	2010-2016	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+146	Chevrolet	Trax	5	2013-2016	Barre lungitudinali	SI		601	507	607			857.0	957.0		715				AL
+147	Chrysler	 Chrysler		nan-nan																
+148	Chrysler	300 C SW	5	2004-2011	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+149	Chrysler	Grand Voyager  	5	1996-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL
+150	Chrysler	Grand Voyager  	5	2011-2016	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+151	Chrysler	PT Cruiser	5	2000-2010	Profili a T	SI	406.0	600	526	626	830.0	930.0								AA
+152	Chrysler	Voyager	5	1995-2001	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			AL
+153	Chrysler	Voyager	5	2001-2008	Profili a T	SI	406.0	600	520	620	830.0	930.0								AL
+154	Chrysler	Voyager	5	2008-2014	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NV
+155	Citroen	 Citroen		nan-nan																
+156	Citroen	AX	5	1986-1998	Tetto nudo													25.0	59.0	NO
+157	Citroen	Berlingo I	3-5	1996-2008	Tetto nudo		209.0	500	507	607								22.0	22.0	AB
+158	Citroen	Berlingo I	3-5	1996-2008	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AB
+159	Citroen	Berlingo II	3-5	2008-2018	Punti fissi	SI	129.0	500	520	620										SI
+160	Citroen	Berlingo II	3-5	2008-2018	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			SI
+161	Citroen	Berlingo III	3-5	2018-nan	Barre lungitudinali	SI	655.0	601	513	613			865.0	965.0	530.0	 				NV
+162	Citroen	Bx Break	5	1983-1994	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+163	Citroen	C1 I	5	2005-2014	Tetto nudo	SI												21.0	49.0	NO
+164	Citroen	C1 II	5	2014-nan	Tetto nudo	NO	366.0	500	507	607								25.0	59.0	NO
+165	Citroen	C1 II	5	2014-nan	Tetto nudo	SI												25.0	59.0	NO
+166	Citroen	C2	5	2003-2010	Punti fissi	SI	317.0	500	507	607										AL-AB-2B-RT
+167	Citroen	C3 Aircross	5	2017-nan	Barre lungitudinali	SI	655.0	601	507	607			857.0	957.0	515.0					NO
+168	Citroen	C3 I	5	2002-2009	Tetto nudo	NO	268.0	500	513	613								33.0	33.0	AL-RT-2B
+169	Citroen	C3 II	5	2009-2016	Punti fissi	SI	123.0	500	507	607									5.0	AL
+170	Citroen	C3 III	5	2017-nan	Tetto nudo	NO	339.0	500	513	613								79.0	79.0	AB-2B
+171	Citroen	C3 III	5	2017-nan	Tetto nudo	SI												79.0	79.0	AB-2B
+172	Citroen	C3 Picasso	5	2009-2017	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-2B-RT
+173	Citroen	C4 Aircross	5	2012-2017	Punti fissi	SI	128.0	500	513	613								9.0	40.0	AA-AB-AL
+174	Citroen	C4 Aircross	5	2012-2017	Profili integrati	SI	651.0	601	507	607			857.0	957.0		730				AA-AB-AL
+175	Citroen	C4 Cactus	5	2015-2020	Barre lungitudinali	SI	650.0	601	507	607			857.0	957.0	515.0					AB
+176	Citroen	C4 Gran Picasso	5	2006-2013	Punti fissi	SI	120.0	500	513	613									8.0	NO
+177	Citroen	C4 Gran Picasso	5	2006-2013	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+178	Citroen	C4 Gran Picasso	5	2013-nan	Tetto nudo		314.0	500	526	626										NO
+179	Citroen	C4 I	3	2004-2010	Punti fissi	SI	108.0	500	507	607								8.0	8.0	NO
+180	Citroen	C4 I	5	2004-2010	Punti fissi	SI	108.0	500	507	607								8.0	8.0	NO
+181	Citroen	C4 II	5	2010-2018	Tetto nudo	SI	246.0	500	520	620								65.0	65.0	AL
+182	Citroen	C4 III	5	2021-nan	Tetto nudo	SI	338.0	500	513	613									82.0	NV
+183	Citroen	C4 Picasso	5	2007-2013	Punti fissi	SI	120.0	500	513	613								8.0	8.0	NO
+184	Citroen	C4 Picasso	5	2007-2013	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+185	Citroen	C4 Picasso	5	2013-nan	Tetto nudo	SI	309.0	500	520	620										NO
+186	Citroen	C5 Aircross	5	2019-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0					NV
+187	Citroen	C5 I	4	2000-2008	Tetto nudo	SI												41.0	41.0	SI
+188	Citroen	C5 I SW	5	2001-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+189	Citroen	C5 II	4	2008-2017	Punti fissi	SI	122.0	500	507	607								5.0	5.0	SI
+190	Citroen	C5 II SW	5	2008-2017	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+191	Citroen	C6	4	2005-2012	Punti fissi	SI	122.0	500	526	626									16.0	NO
+192	Citroen	C8	5	2002-2010	Tetto nudo		304.0	500	542	642										AL-RT
+193	Citroen	C8	5	2002-2010	Profili a T	SI	406.0	600	542	642	830.0	930.0								AL-RT
+194	Citroen	C-Crosser	5	2007-2012	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-AB
+195	Citroen	Evasion	5	1994-2002	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+196	Citroen	Nemo	3-5	2008-nan	Punti fissi	SI	102.0	500	526	626								7.0	7.0	AL-RT
+197	Citroen	Nemo	3-5	2008-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			AL-RT
+198	Citroen	Saxo	3	1996-2004	Tetto nudo													52.0	52.0	RT
+199	Citroen	Saxo	5	1996-2005	Tetto nudo													25.0	25.0	RT
+200	Citroen	Xantia	5	1993-1998	Tetto nudo													27.0	27.0	NO
+201	Citroen	Xantia SW	5	1995-2001	Profili a T	SI	406.0	600	513	613	815.0	915.0								NO
+202	Citroen	XM	5	1989-1994	Tetto nudo													26.0		NO
+203	Citroen	XM SW	5	1992-1999	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+204	Citroen	Xsara	5	1997-2004	Tetto nudo													21.0	21.0	SI
+205	Citroen	Xsara Picasso	5	1999-2010	Tetto nudo	NO	209.0	500	507	607								22.0	22.0	SI
+206	Citroen	Xsara SW	5	1997-2004	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+207	Citroen	ZX SW	5	1994-1999	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+208	Cupra	 Cupra		nan-nan																
+209	Cupra	Formentor	5	2020-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NV
+210	Dacia	 Dacia		nan-nan																
+211	Dacia	Dokker	3-5	2012-nan	Punti fissi	SI	102.0	500	507	607								6.0	6.0	NO
+212	Dacia	Dokker	3-5	2012-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+213	Dacia	Duster	5	2010-2013	Barre lungitudinali	SI	412.0	600	520	620	815.0	915.0			515.0					2B
+214	Dacia	Duster	5	2014-2017	Barre lungitudinali	SI	652.0	601	507	607			857.0	957.0		715				2B
+215	Dacia	Duster	5	2018-nan	Barre lungitudinali	SI	655.0	601	507	607			857.0	957.0	515.0					NV
+216	Dacia	Lodgy	5	2012-nan	Profili integrati	SI	651.0	601	507	607			857.0	957.0		715				RT
+217	Dacia	Logan	4	2004-nan	Punti fissi	SI	353.0	500	513	613								53.0		SI
+218	Dacia	Logan MCV	5	2013-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NV
+219	Dacia	Logan SW	5	2007-2013	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+220	Dacia	Logan SW	5	2013-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0					● ○			NV
+221	Dacia	Sandero I	5	2008-2020	Punti fissi	NV	353.0	500	507	607								53.0		AL-RT
+222	Dacia	Sandero II	5	2021-nan	Tetto nudo	NV	377.0	500	520	620									80.0	NV
+223	Dacia	Sandero Stepway	5	2010-2012	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+224	Dacia	Sandero Stepway II	5	2013-2020	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			SI
+225	Dacia	Sandero Stepway III	5	2021-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0					NV
+226	Daewoo	 Daewoo		nan-nan																
+227	Daewoo	Kalos	5	2002-2005	Tetto nudo													23.0	57.0	AL
+228	Daewoo	Lanos	5	1997-2005	Tetto nudo													23.0	23.0	NO
+229	Daewoo	Matiz	5	1998-2007	Tetto nudo													21.0	21.0	AL
+230	Daewoo	Matiz	5	1998-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+231	Daewoo	Nubira SW	5	1997-2003	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+232	Daewoo	Tacuma	5	2000-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NV
+233	Daihatsu	 Daihatsu		nan-nan																
+234	Daihatsu	Feroza	3	1988-2000	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+235	Daihatsu	Materia	5	2007-2016																SI
+236	Daihatsu	Sirion	5	1998-2005	Tetto nudo													23.0	57.0	AL-RT
+237	Daihatsu	Sirion II	5	2005-2016	Tetto nudo													33.0	33.0	AL-RT
+238	Daihatsu	Terios	5	1997-2005	Tetto nudo													25.0	25.0	NO
+239	Daihatsu	Terios	5	1998-2005	Profili integrati	SI	653.0	601	507	607			857.0	957.0						NO
+240	Daihatsu	Terios	5	2006-2016	Tetto nudo		306.0	500	513	613										NO
+241	Daihatsu	Terios	5	2006-2016	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+242	Dodge	 Dodge		nan-nan																
+243	Dodge	Journey	5	2008-2011	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NV
+244	Dodge	Nitro	5	2007-2011																SI
+245	DR	 DR		nan-nan																
+246	DR	DR2	5	2010-2014	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NV
+247	DR	DR5	5	2008-2016	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NV
+248	DR	DR6***	5	2017-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				NO
+249	DS	 DS		nan-nan																
+250	DS	3	3	2010-2019	Punti fissi	SI	122.0	500	507	607									5.0	NO
+251	DS	4	5	2011-2018	Tetto nudo		250.0	500	520	620								65.0	65.0	NO
+252	DS	5	5	2012-2018	Tetto nudo	SI	283.0	500	520	620								65.0	65.0	NO
+253	DS	7	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+254	Fiat	 Fiat		nan-nan																
+255	Fiat	500	3	2007-nan	Tetto nudo	SI	281.0	500	513	613								67.0	67.0	SI
+256	Fiat	500 L	5	2012-nan	Tetto nudo	SI	276.0	500	526	626								65.0	65.0	NO
+257	Fiat	500 L Living	5	2013-nan	Tetto nudo	SI	276.0	500	526	626								65.0	65.0	NO
+258	Fiat	500 X	5	2015-nan	Tetto nudo	NO	330.0	500	520	620								83.0	83.0	NO
+259	Fiat	500 X	5	2015-nan	Tetto nudo	SI												83.0	83.0	NO
+260	Fiat	500 X	5	2015-nan	Profili integrati	SI	651.0	601	507	607			857.0	957.0		715				NO
+261	Fiat	Bravo II	5	2007-2014	Tetto nudo	SI	221.0	500	520	620								65.0	65.0	SI
+262	Fiat	Cinquecento	3	1991-1998	Tetto nudo													46.0	46.0	SI
+263	Fiat	Croma I	4	1985-1996	Tetto nudo													34.0		NO
+264	Fiat	Croma II	5	2005-2010	Punti fissi	SI	116.0	500	507	607										AL-RT
+265	Fiat	Croma II	5	2005-2010	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+266	Fiat	Doblò I	3-5	2000-2010	Punti fissi	SI	102.0	500	520	620								7.0	7.0	RT
+267	Fiat	Doblò II	5	2010-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+268	Fiat	Doblò Malibù	5	2001-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			SI
+269	Fiat	Fiorino 	5	2008-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			SI
+270	Fiat	Fiorino	3-5	1987-2001	Punti fissi	SI	102.0	500	513	613								6.0	2.0	NO
+271	Fiat	Fiorino	3-5	2008-nan	Punti fissi	SI	102.0	500	526	626								7.0	7.0	NO
+272	Fiat	Freemont	5	2011-2016	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NO
+273	Fiat	Fullback Double Cab	4	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+274	Fiat	Fullback Single Cab	2	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+275	Fiat	Grande Punto \ P. Evo	3	2005-2018	Tetto nudo	SI	251.0	500	507	607								56.0	56.0	AL-RT
+276	Fiat	Grande Punto \ P. Evo	5	2005-2018	Tetto nudo	SI	215.0	500	507	607								19.0	19.0	AL-RT
+277	Fiat	Idea	5	2004-2012	Punti fissi	NO	117.0	500	507	607								17.0	17.0	SI
+278	Fiat	Idea	5	2004-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+279	Fiat	Marea WeekEnd	5	1997-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+280	Fiat	Marengo	5	1997-2007	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+281	Fiat	Multipla	5	1999-2010	Punti fissi	SI	119.0	500	542	642										AL-AB
+282	Fiat	Palio WeekEnd	5	1996-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+283	Fiat	Panda I	3	1979-2003	Tetto nudo													52.0	60.0	SI
+284	Fiat	Panda I	3	1999-2003	Barre lungitudinali	SI		600	513	613	815.0	915.0			530.0		● ○			SI
+285	Fiat	Panda II	5	2003-2012	Punti fissi	SI	318.0	500	513	613								58.0	58.0	AL-RT
+286	Fiat	Panda II	5	2003-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL-RT
+287	Fiat	Panda III	5	2012-nan	Punti fissi	SI	124.0	500	507	607								11.0	11.0	AL-RT
+288	Fiat	Panda III	5	2012-nan	Profili integrati	SI	419.0	600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0		715				AL-RT
+289	Fiat	Panda III Cross	5	2014-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL-RT
+290	Fiat	Panda III Cross	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				AL-RT
+291	Fiat	Punto I	3	1993-1999	Tetto nudo													15.0	15.0	AL-RT
+292	Fiat	Punto I	5	1993-1999	Tetto nudo													20.0	20.0	AL-RT
+293	Fiat	Punto II	3	1999-2010	Tetto nudo		203.0	500	507	607								39.0	39.0	AL-RT
+294	Fiat	Punto II	5	1999-2010	Tetto nudo		204.0	500	507	607								31.0	31.0	AL-RT
+295	Fiat	Punto III	5	2012-2018	Tetto nudo	SI	215.0	500	507	607								19.0	19.0	AL-RT
+296	Fiat	Qubo	3-5	2008-nan	Punti fissi	SI	102.0	500	526	626								7.0	7.0	AL-RT
+297	Fiat	Qubo	5	2008-nan	Barre lungitudinali	SI	411.0	600	542	642	830.0	930.0			530.0		● ○			AL-RT
+298	Fiat	Regata	5	1984-1991	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+299	Fiat	Sedici	5	2006-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			SI
+300	Fiat	Seicento	3	1998-2010	Tetto nudo													46.0	46.0	SI
+301	Fiat	Stilo	3-5	2001-2007	Punti fissi	SI	111.0	500	513	613								17.0	17.0	NO
+302	Fiat	Stilo SW	5	2001-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+303	Fiat	Tempra	4	1990-1996	Tetto nudo													20.0	20.0	NO
+304	Fiat	Tempra SW	5	1990-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+305	Fiat	Tipo	3-5	1988-1995	Tetto nudo													20.0	20.0	NO
+306	Fiat	Tipo	5	2016-nan	Tetto nudo		369.0	500	513	613								76.0	76.0	NO
+307	Fiat	Tipo Berlina	4	2015-nan	Tetto nudo		368.0	500	513	613								76.0	76.0	SI
+308	Fiat	Tipo SW	5	2016-nan	Profili integrati	SI	651.0	601	507	607			857.0	957.0		715				NO
+309	Fiat	Ulysse I	5	1994-2002	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+310	Fiat	Ulysse II	5	2002-2010	Tetto nudo		304.0	500	542	642										NO
+311	Fiat	Ulysse II	5	2002-2010	Profili a T	SI	406.0	600	542	642	830.0	930.0								NO
+312	Fiat	Uno	5	1984-1995	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+313	Ford	 Ford		nan-nan																
+314	Ford	B-Max	5	2012-2018	Tetto nudo	SI												50.0	50.0	AL
+315	Ford	C-Max 7	5	2010-nan	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL-2B
+316	Ford	C-Max I	3-5	2003-2010	Punti fissi	SI	114.0	500	513	613								14.0	14.0	AA-AL-RT
+317	Ford	C-Max II	5	2010-nan	Tetto nudo	SI	247.0	500	526	626								68.0	68.0	AL-2B
+318	Ford	Connect 	5	2014-nan	Profili integrati	SI	653.0	601	513	613			865.0	965.0						RT
+319	Ford	Connect 	5	2014-nan	Profili integrati	SI	653.0	601	513	613			865.0	965.0						RT
+320	Ford	Connect 	5	2014-nan	Profili integrati	SI	653.0	601	513	613			865.0	965.0						NO
+321	Ford	Connect	3-5	2002-2012	Punti fissi	SI	102.0	500	507	607								6.0	2.0	NO
+322	Ford	Courier 	3-5	2013-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+323	Ford	Courier 	3-5	2014-nan	Punti fissi	SI	326.0	500	513	613										AL-RT
+324	Ford	Courier 	3-5	2014-nan	Punti fissi	SI	326.0	500	513	613										NO
+325	Ford	Edge	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+326	Ford	Escort	4	1990-1999	Tetto nudo													26.0	26.0	RT
+327	Ford	Escort SW	5	1993-2000	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+328	Ford	Fiesta III	3	1989-1995	Punti fissi	SI												28.0	28.0	NO
+329	Ford	Fiesta IV	3	1995-2002	Punti fissi	SI												28.0	28.0	SI
+330	Ford	Fiesta IV	5	1995-2002	Tetto nudo													25.0	25.0	SI
+331	Ford	Fiesta V	3	2002-2008	Tetto nudo													43.0	43.0	AL-RT
+332	Ford	Fiesta V	5	2002-2008	Tetto nudo		267.0	500	513	613								55.0	55.0	AL-RT
+333	Ford	Fiesta VI	5	2008-2017	Tetto nudo		234.0	500	513	613								55.0	55.0	2B-RT
+334	Ford	Fiesta VII	5	2018-nan	Tetto nudo	NO	351.0	500	513	613								45.0	36.0	NO
+335	Ford	Fiesta VII	5	2018-nan	Tetto nudo	SI												45.0	36.0	NO
+336	Ford	Fiesta VII Active	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+337	Ford	Focus I	5	1998-2004	Tetto nudo													18.0	18.0	AL-RT
+338	Ford	Focus I SW	5	1999-2004	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+339	Ford	Focus II	3-5	2004-2011	Punti fissi	SI	114.0	500	513	613								14.0	14.0	NO
+340	Ford	Focus II SW	5	2004-2011	Punti fissi	SI	114.0	500	513	613								14.0	14.0	AL-RT
+341	Ford	Focus II SW	5	2004-2011	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+342	Ford	Focus II SW	5	2004-2011	Profili a T	SI	406.0	600	520	620	830.0	930.0								AL-RT
+343	Ford	Focus III	5	2011-2018	Tetto nudo		263.0	500	520	620								68.0	68.0	AL-2B
+344	Ford	Focus III SW	5	2011-2018	Tetto nudo		263.0	500	520	620										AL-AB-RT-2B
+345	Ford	Focus III SW	5	2011-2018	Profili integrati	SI	414.0	600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0		715				AL-AB-2B-RT
+346	Ford	Focus IV	5	2018-nan	Tetto nudo	SI												80.0	80.0	NO
+347	Ford	Focus IV Active	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+348	Ford	Focus IV SW	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+349	Ford	Fusion	5	2002-2012	Tetto nudo		305.0	500	513	613								55.0	55.0	AL-RT
+350	Ford	Galaxy	5	1995-2005	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			SI
+351	Ford	Galaxy	5	2006-2010	Profili a T	SI	406.0	600	526	626	830.0	930.0								AL-AB
+352	Ford	Galaxy	5	2010-2015	Profili integrati	SI	653.0	601	520	620			865.0	965.0						AL-AB
+353	Ford	Galaxy	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				AL-AB-AA-2B
+354	Ford	KA+	5	2016-nan	Tetto nudo	NV												44.0	44.0	AL
+355	Ford	Ka+ Active	5	2018-nan	Barre lungitudinali	SI		600							515.0					NV
+356	Ford	Kuga	5	2008-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL-2B
+357	Ford	Kuga	5	2013-2020	Tetto nudo	SI	332.0	500	526	626										AL-AB-2B
+358	Ford	Kuga	5	2013-2020	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-AB-2B
+359	Ford	Kuga	5	2020-nan	Profili integrati	SI		601	520	620			865.0	965.0		730				NV
+360	Ford	Mondeo	4	2007-2014	Tetto nudo		223.0	500	520	620										SI
+361	Ford	Mondeo SW	5	1993-2000	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-AB
+362	Ford	Mondeo SW	5	2001-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-2B-RT
+363	Ford	Mondeo SW	5	2007-2014	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-AB-2B
+364	Ford	Mondeo SW	5	2012-2014	Profili integrati	SI	414.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		715				AL-AB-2B
+365	Ford	Mondeo SW	5	2014-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+366	Ford	Puma	5	2020-nan	Tetto nudo	NV	378.0	500	513	613										NV
+367	Ford	Puma	5	2020-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+368	Ford	Ranger	4	2012-2015	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+369	Ford	Ranger	4	2016-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+370	Ford	Sierra II	5	1987-1993	Punti fissi	SI												28.0	28.0	NO
+371	Ford	S-Max	5	2006-2015	Punti fissi	SI	118.0	500	526	626										AL-AB-2B
+372	Ford	S-Max	5	2015-nan	Tetto nudo	NO	335.0	500	542	642										AL-AB-2B
+373	Ford	S-Max	5	2015-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				AL-AB-2B
+374	Honda	 Honda		nan-nan																
+375	Honda	Accord SW 	5	1994-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+376	Honda	Accord SW 	5	1998-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+377	Honda	Accord SW 	5	2010-2015	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+378	Honda	Civic 	5	2006-2012	Tetto nudo	NO	284.0	500	513	613								35.0	35.0	NO
+379	Honda	Civic 	5	2006-2012	Tetto nudo	SI												35.0	35.0	NO
+380	Honda	Civic Shuttle 	5	1988-1996	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+381	Honda	Civic SW 	5	2014-nan																AA-AB-AL-2B
+382	Honda	Civic SW	5	1997-2013	Barre lungitudinali	SI		600	507	607	815.0	915.0					● ○			NO
+383	Honda	CR-V 	5	1996-2002	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+384	Honda	CR-V 	5	2007-2012																AL-AB-RT
+385	Honda	CR-V 	5	2012-nan																AL-AB-RT
+386	Honda	FR-V 	5	2004-2011	Barre lungitudinali	SI		600	542	642					530.0					NO
+387	Honda	Jazz 	5	2002-2008	Tetto nudo	SI												35.0	35.0	AL
+388	Honda	Jazz 	5	2009-2013	Tetto nudo	SI	306.0	500	520	620										AL
+389	Honda	Odyssey 	5	1995-1999	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NV
+390	Honda	Odyssey 	5	2003-2008	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+391	Honda	Pilot 	5	2001-2015	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+392	Honda	Z	3	1999-2002	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+393	Hyundai	 Hyundai		nan-nan																
+394	Hyundai	Atos 	5	1997-2008	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+395	Hyundai	Atos Prime 	5	1997-2008	Tetto nudo	NV												44.0	44.0	SI
+396	Hyundai	Avante SW	5	1996-2000	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+397	Hyundai	Getz 	5	2002-2011																SI
+398	Hyundai	Getz Cross 	5	2006-2011	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+399	Hyundai	H-1	3-4	1997-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+400	Hyundai	H-1	3-4	2008-nan	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+401	Hyundai	i10   	5	2007-2013	Tetto nudo													23.0	57.0	AL-RT
+402	Hyundai	i10  	5	2014-2020	Tetto nudo	NO	316.0	500	513	613								55.0	55.0	AL-RT
+403	Hyundai	i10 	5	2020-nan	Tetto nudo	NV	351.0	500	513	613									36.0	NV
+404	Hyundai	i20   	5	2008-2014	Tetto nudo	SI	237.0	500	513	613								25.0	59.0	AL-RT
+405	Hyundai	i20  	5	2015-2020	Punti fissi	SI	128.0	500	507	607								9.0	40.0	AL
+406	Hyundai	i20 	5	2021-nan	Tetto nudo	NV	379.0	500	513	613										AL
+407	Hyundai	i20 Active 	5	2015-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			NO
+408	Hyundai	i30 	3-5	2007-2012	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-RT
+409	Hyundai	i30 	3-5	2012-2017	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-2B
+410	Hyundai	i30 	5	2017-nan	Punti fissi	SI	128.0	500	507	607								9.0	40.0	SI
+411	Hyundai	i30 SW 	5	2008-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+412	Hyundai	i30 SW *** 	5	2017-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		715				NO
+413	Hyundai	ix20 	5	2010-2019	Tetto nudo	SI	259.0	500	520	620								35.0	35.0	SI
+414	Hyundai	ix35  	5	2010-2015	Tetto nudo	SI	266.0	500	520	620										AL-RT
+415	Hyundai	ix35  	5	2010-2015	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL-RT
+416	Hyundai	ix35  ***	5	2010-2015	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				AL-RT
+417	Hyundai	ix35 ***	5	2010-2015	Profili integrati	SI	416.0	600	526	626	830.0	930.0								AL-RT
+418	Hyundai	Kona	5	2017-nan	Profili integrati	SI	420.0	600	526	626	830.0	930.0								NV
+419	Hyundai	Lantra SW 	5	1996-2000	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+420	Hyundai	Matrix 	5	2001-2010	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+421	Hyundai	Santa Fe  	5	2000-2005	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+422	Hyundai	Santa Fe 	5	2006-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+423	Hyundai	Santa Fe 	5	2013-2018	Profili integrati	SI		601	507	607			857.0	957.0		730				NV
+424	Hyundai	Terracan 	5	2001-2007	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+425	Hyundai	Traject 	5	2000-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+426	Hyundai	Tucson 	5	2004-2009	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+427	Hyundai	Tucson *** 	5	2015-2017	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				NV
+428	Infiniti	 Infiniti		nan-nan																
+429	Infiniti	EX	5	2008-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+430	Infiniti	EX30D	5	2012-2014	Barre lungitudinali	SI		600	513	613	815.0	915.0					● ○			NO
+431	Infiniti	FX	5	2009-2014	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			NO
+432	Infiniti	Q50	4	2013-nan																SI
+433	Infiniti	Q70	4	2014-nan																AB
+434	Infiniti	QX30	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0						NO
+435	Infiniti	QX70	5	2013-2017	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0					NO
+436	Infiniti	QX70	5	2017-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+437	Isuzu	 Isuzu		nan-nan																
+438	Isuzu	D-Max	4	2012-nan	Barre lungitudinali	SI		600							530.0					NO
+439	Jaguar	 Jaguar		nan-nan																
+440	Jaguar	E-Pace 	5	2017-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+441	Jaguar	F-Pace 	5	2016-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+442	Jaguar	S Type 	4	2004-2008																SI
+443	Jaguar	X Type 	4	2001-2009																SI
+444	Jaguar	X Type SW 	5	2004-2009																AL
+445	Jaguar	XF SW 	5	2012-2016	Profili integrati	SI		601	507	607			857.0	957.0		730				NV
+446	Jaguar	XJ 	4	2003-2007																SI
+447	Jaguar	X-Type SW	5	2003-2009	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			AL
+448	Jeep	 Jeep		nan-nan																
+449	Jeep	Cherokee  	5	1984-2001	Profili a T	SI	406.0	600	542	642	830.0	930.0								AL
+450	Jeep	Cherokee 	5	2001-2008	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+451	Jeep	Cherokee 	5	2008-2013	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			AL
+452	Jeep	Cherokee 	5	2013-nan	Barre lungitudinali	SI									515.0					NO
+453	Jeep	Commander 	5	2006-2010																AL
+454	Jeep	Compass 	5	2017-nan	Profili integrati	SI	654.0	601	507	607			857.0	957.0		715				NO
+455	Jeep	Grand Cherokee   	5	1992-1998	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+456	Jeep	Grand Cherokee  	5	1999-2004	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+457	Jeep	Grand Cherokee 	5	2005-2011	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			AL
+458	Jeep	Grand Cherokee 	5	2011-nan																AA-AL-AB-2B
+459	Jeep	Patriot 	5	2007-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL-AB
+460	Jeep	Renegade 	5	2014-nan	Tetto nudo	SI	329.0	500	526	626										NO
+461	Jeep	Renegade 	5	2014-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+462	Jmc	 Jmc		nan-nan																
+463	Jmc	Landwind  	5	2005-nan	Barre lungitudinali	SI		600	507	607	815.0	915.0					● ○			NO
+464	Kia	 Kia		nan-nan																
+465	Kia	Carens 	5	2002-2006	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+466	Kia	Carens 	5	2013-2018	Tetto nudo	NO	324.0	500	526	626										NO
+467	Kia	Carnival 	5	1998-2006	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+468	Kia	Carnival 	5	2006-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+469	Kia	Cee'd  	3-5	2006-2012	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-RT
+470	Kia	Cee'd   	5	2012-2018	Tetto nudo	SI	296.0	500	526	626										NO
+471	Kia	Cee'd  	3-5	2012-2018	Punti fissi	NO	128.0	500	507	607								9.0	9.0	NO
+472	Kia	Cee'd 	5	2018-nan	Punti fissi	SI	128.0	500	507	607								9.0	40.0	NV
+473	Kia	Cee'd SW  	5	2007-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-2B
+474	Kia	Cee'd SW  	5	2012-2017	Profili integrati	SI	656.0	601	507	607			857.0	957.0		715				NO
+475	Kia	Cee'd SW *** 	5	2018-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		715				AL
+476	Kia	Clarus 	5	1996-2001	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+477	Kia	Grand Carnival 	5	2006-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+478	Kia	Niro ***	5	2016-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				AL-2B
+479	Kia	Optima SW *** 	5	2017-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		715				AB-2B
+480	Kia	Picanto 	5	2004-2011	Tetto nudo	NO												44.0	44.0	AL
+481	Kia	Picanto 	5	2017-nan	Tetto nudo	NV	380.0	500	507	607										AL
+482	Kia	Picanto 	5	2011-2017	Tetto nudo		293.0	500	507	607								25.0	59.0	AL-2B
+483	Kia	Rio 	5	2011-2017	Tetto nudo		260.0	500	513	613								36.0	36.0	SI
+484	Kia	Rio 	5	2017-nan	Tetto nudo	SI	341.0	500	513	613										SI
+485	Kia	Rio SW 	5	2000-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+486	Kia	Sorento  	5	2002-2009	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+487	Kia	Sorento  	5	2009-2014	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+488	Kia	Sorento 	5	2015-2020	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+489	Kia	Soul 	5	2008-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL-RT
+490	Kia	Soul *** 	5	2014-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				AL-RT-2B
+491	Kia	Soul	5	2014-nan	Punti fissi	NV	128.0	500	513	613								9.0	40.0	AL-RT-2B
+492	Kia	Sportage   	3-5	1994-2004	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+493	Kia	Sportage   	5	2004-2010	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			RT
+494	Kia	Sportage   ***	5	2010-2016	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				RT
+495	Kia	Sportage  ***	5	2010-2016	Profili integrati	SI	416.0	600	526	626	830.0	930.0								RT
+496	Kia	Sportage ***	5	2016-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		730				AB-2B
+497	Kia	Stonic 	5	2017-nan	Barre lungitudinali	SI	655.0	601	507	607			857.0	957.0	515.0					AB
+498	Kia	Venga 	5	2010-2019	Tetto nudo	SI	259.0	500	520	620								35.0	35.0	AL
+499	Lada	 Lada		nan-nan																
+500	Lada	111 SW	5	1998-nan	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+501	Lada	2102 Niva	5	1984-nan	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+502	Lada	2104 Niva	5	1984-nan	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+503	Lancia	 Lancia		nan-nan																
+504	Lancia	Delta	5	2008-2014	Tetto nudo	SI	233.0	500	520	620								35.0	35.0	NO
+505	Lancia	Kappa	4	1994-2001	Tetto nudo	SI												27.0	27.0	SI
+506	Lancia	Lybra	4	1999-2005																AL-RT
+507	Lancia	Lybra SW	5	1999-2005																AL
+508	Lancia	Musa	5	2004-2012	Punti fissi	NO	117.0	500	507	607								17.0	17.0	AB
+509	Lancia	Musa	5	2004-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AB
+510	Lancia	Phedra	5	2002-2010	Tetto nudo		304.0	500	542	642										NO
+511	Lancia	Phedra	5	2002-2010	Profili a T	SI	406.0	600	542	642	830.0	930.0								NO
+512	Lancia	Thema	4	1984-1994	Tetto nudo													34.0		SI
+513	Lancia	Thema	4	2011-2014																RT
+514	Lancia	Y	3	1996-2003	Tetto nudo													16.0		NO
+515	Lancia	Ypsilon I	3	2003-2011	Tetto nudo	NO	218.0	500	507	607								43.0	43.0	RT
+516	Lancia	Ypsilon II	5	2011-nan	Tetto nudo	NO	249.0	500	520	620								65.0	65.0	NO
+517	Lancia	Ypsilon II	5	2011-nan	Tetto nudo	SI												65.0	65.0	NO
+518	Lancia	Zeta	5	1995-2002	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+519	Land Rover	 Land Rover		nan-nan																
+520	Land Rover	Discovery	5	1996-2004	Barre lungitudinali	SI		600	542	642					530.0					NO
+521	Land Rover	Discovery	5	2004-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-AB-RT
+522	Land Rover	Discovery	5	2010-2017	Profili a T	SI	406.0	600	520	620	830.0	930.0								NO
+523	Land Rover	Discovery	5	2017-nan	Barre lungitudinali	SI		601	520	620			865.0	965.0		730				NO
+524	Land Rover	Discovery Sport 	5	2015-nan	Tetto nudo	NV	367.0	500	526	626										NV
+525	Land Rover	Discovery Sport 	5	2015-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+526	Land Rover	Discovery Sport	5	2015-nan	Barre lungitudinali	SI		601	507	607			857.0	957.0		730				NO
+527	Land Rover	Evoque 	5	2011-2018	Tetto nudo	NO	303.0	500	526	626										NO
+528	Land Rover	Evoque 	5	2011-2018	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+529	Land Rover	Freelander I	5	1998-2006	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+530	Land Rover	Freelander II	5	2006-2016	Tetto nudo		255.0	500	520	620										AL
+531	Land Rover	Freelander II	5	2006-2016	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL
+532	Land Rover	Range II	5	1994-2002	Punti fissi	SI	213.0	500	513	613										NO
+533	Land Rover	Velar	5	2017-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NV
+534	Lexus	 Lexus		nan-nan																
+535	Lexus	GS 	4	2011-2016																2B
+536	Lexus	IS 	4	1998-2005																2B
+537	Lexus	NX 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+538	Lexus	RC 	3	2014-nan																AB
+539	Lexus	RX  	5	2003-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+540	Lexus	RX 	5	2009-2015	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+541	Lexus	RX 	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+542	Lexus	UX	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+543	Mahindra	 Mahindra		nan-nan																
+544	Mahindra	Goa	5	2002-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+545	Maserati	 Maserati		nan-nan																
+546	Maserati	Levante	5	2016-nan	Profili integrati	SI		601	513	613			865.0	965.0						NO
+547	Mazda	 Mazda		nan-nan																
+548	Mazda	121 	3	1996-2001	Punti fissi	SI												28.0	28.0	NV
+549	Mazda	121 	5	1996-2001	Tetto nudo													25.0	25.0	NV
+550	Mazda	2 	3-5	2007-2015	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-RT
+551	Mazda	2 	5	2015-nan	Tetto nudo		333.0	500	513	613										AL-2B
+552	Mazda	3 	4-5	2004-2009	Punti fissi	SI	128.0	500	507	607								9.0	40.0	NO
+553	Mazda	3 	4-5	2009-2013	Punti fissi	SI	128.0	500	507	607								9.0	40.0	NO
+554	Mazda	3 	5	2013-2019	Tetto nudo		307.0	500	520	620								71.0	71.0	NO
+555	Mazda	3 	5	2019-nan	Punti fissi	SI	127.0	500	513	613										NO
+556	Mazda	5 	5	2005-2015	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-RT
+557	Mazda	5 	5	2005-2015	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+558	Mazda	6 	4	2007-2012	Punti fissi	SI	128.0	500	507	607								9.0	9.0	AL-RT
+559	Mazda	6 	4	2013-nan																SI
+560	Mazda	6 SW  	5	2002-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+561	Mazda	6 SW 	5	2008-2013	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-RT
+562	Mazda	6 SW 	5	2013-nan	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+563	Mazda	626 SW 	5	1988-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+564	Mazda	626 SW 	5	1998-2002	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+565	Mazda	CX-3 	5	2015-nan	Tetto nudo		320.0	500	513	613										NO
+566	Mazda	CX-30 	5	2020-nan	Tetto nudo	NV	381.0	500	520	620										NV
+567	Mazda	CX-5 	5	2012-2017	Punti fissi	SI	128.0	500	513	613								9.0	40.0	AL-RT-2B
+568	Mazda	CX-7 	5	2006-2012	Punti fissi	SI	128.0	500	520	620										AL
+569	Mazda	Demio 	5	1998-2003	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+570	Mazda	MPV 	5	1995-1999	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+571	Mazda	MPV 	5	1999-2005	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+572	Mazda	MX-30 	5	2021-nan	Tetto nudo	NV	382.0	500	526	626										NV
+573	Mazda	Premacy 	5	1999-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+574	Mazda	Tribute 	5	2000-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			NO
+575	Mercedes	 Mercedes		nan-nan																
+576	Mercedes	190 	4	1982-1993	Tetto nudo													24.0	24.0	NO
+577	Mercedes	200-230-300TE	5	1985-1995	Barre lungitudinali	SI		600	526	626	830.0	930.0					● ○			NO
+578	Mercedes	Citan 	3-5	2012-nan	Punti fissi	SI	102.0	500	513	613								6.0	2.0	NV
+579	Mercedes	CLA 	4	2013-2019	Punti fissi	SI	115.0	500	507	607								12.0	12.0	NO
+580	Mercedes	CLA Shooting Brake 	5	2015-2019	Punti fissi	SI	115.0	500	507	607								12.0	12.0	NO
+581	Mercedes	CLA Shooting Brake 	5	2019-nan	Punti fissi	SI	115.0	500	507	607									12.0	NO
+582	Mercedes	Classe A 	5	1997-2004	Tetto nudo		228.0	500	507	607								25.0	59.0	NO
+583	Mercedes	Classe A 	3-5	2004-2012	Punti fissi	SI	113.0	500	513	613								13.0	13.0	AL-2B-RT
+584	Mercedes	Classe A 	5	2012-2018	Punti fissi	SI	115.0	500	507	607								12.0	12.0	NO
+585	Mercedes	Classe A 	5	2018-nan	Punti fissi	SI	115.0	500	507	607								12.0	12.0	NO
+586	Mercedes	Classe A Sedan 	4	2019-nan	Punti fissi	SI	131.0	500	507	607									99.0	NV
+587	Mercedes	Classe B 	5	2005-2011	Punti fissi	SI	113.0	500	513	613								13.0	13.0	SI
+588	Mercedes	Classe B 	5	2011-2018	Punti fissi	SI	115.0	500	513	613								12.0	42.0	NO
+589	Mercedes	Classe B 	5	2019-nan	Punti fissi	SI	115.0	500	513	613								12.0	42.0	NV
+590	Mercedes	Classe C 	4	1993-2000	Tetto nudo													24.0	24.0	NO
+591	Mercedes	Classe C 	4	2000-2007	Tetto nudo													24.0	24.0	SI
+592	Mercedes	Classe C 	4	2007-2013	Punti fissi	SI	106.0	500	513	613								12.0	42.0	SI
+593	Mercedes	Classe C 	4	2014-nan	Punti fissi	SI	106.0	500	513	613								12.0	42.0	SI
+594	Mercedes	Classe C Coupè 	2	2011-2015	Punti fissi	SI	106.0	500	507	607								12.0	12.0	NO
+595	Mercedes	Classe C Coupè 	2	2016-nan	Punti fissi	SI	106.0	500	507	607										NV
+596	Mercedes	Classe C SW 	5	1993-2000	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+597	Mercedes	Classe C SW 	5	2001-2007	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+598	Mercedes	Classe C SW 	5	2007-2014	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+599	Mercedes	Classe C SW 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				AA-RT-2B
+600	Mercedes	Classe E 	4	1995-2002	Tetto nudo													24.0	24.0	NO
+601	Mercedes	Classe E 	4	2002-2009	Punti fissi	SI	112.0	500	513	613										NO
+602	Mercedes	Classe E 	4	2009-2016	Punti fissi	SI	106.0	500	513	613									42.0	NO
+603	Mercedes	Classe E Coupè 	2	2009-2016	Punti fissi	SI	106.0	500	507	607								12.0	12.0	NO
+604	Mercedes	Classe E SW 	5	1985-1995	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+605	Mercedes	Classe E SW 	5	1996-2002	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+606	Mercedes	Classe E SW 	5	2002-2009	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			AL-AA
+607	Mercedes	Classe E SW 	5	2009-2016	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			NO
+608	Mercedes	Classe E SW 	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+609	Mercedes	Classe R 	5	2005-2013	Punti fissi	SI	106.0	500	520	620										SI
+610	Mercedes	Classe S 	4	2005-2013	Punti fissi	SI	106.0	500	520	620										NO
+611	Mercedes	Classe X 	5	2017-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+612	Mercedes	CLS  	4	2010-2018	Punti fissi	SI	106.0	500	520	620										NO
+613	Mercedes	CLS 	4	2004-2010	Punti fissi	SI	106.0	500	520	620										NO
+614	Mercedes	CLS Shooting Brake 	5	2011-2018	Punti fissi	SI	106.0	500	520	620										NO
+615	Mercedes	GL 	5	2006-2015	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+616	Mercedes	GLA  	5	2014-2020	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+617	Mercedes	GLA 	5	2020-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NV
+618	Mercedes	GLB 	5	2020-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NV
+619	Mercedes	GLC 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+620	Mercedes	GLE  	5	2015-2019	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0					NO
+621	Mercedes	GLE 	5	2019-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0					NO
+622	Mercedes	GLE Coupè 	5	2015-2019	Punti fissi	SI	115.0	500	526	626										NO
+623	Mercedes	GLK 	5	2008-2015	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			NO
+624	Mercedes	GLS 	5	2016-nan	Barre lungitudinali			600	542	642	830.0	930.0			530.0		● ○			NO
+625	Mercedes	ML 	5	1997-2005	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+626	Mercedes	ML 	5	2005-2011	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			AA-AL-AB
+627	Mercedes	ML 	5	2011-2015	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+628	Mercedes	Vaneo 	5	2002-2005	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+629	Mercedes	Viano 	3-5	2003-2013	Barre lungitudinali	SI		600	542	642					530.0					AL-RT
+630	Mercedes	Vito  	5	2014-nan	Barre lungitudinali	SI		600	542	642					530.0					NO
+631	Mercedes	Vito 	3-5	1996-2003	Barre lungitudinali	SI		600	542	642					530.0					NO
+632	Mercedes	Vito 	3-5	1996-2003	Profili a T	SI	406.0	600	542	642										NO
+633	Mercedes	Vito 	5	2003-2013	Barre lungitudinali	SI		600	542	642					530.0					NO
+634	MG	 MG		nan-nan																
+635	MG	ZT-T SW	5	2002-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+636	Mini	 Mini		nan-nan																
+637	Mini	Clubman  	5	2009-2014	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0					NO
+638	Mini	Clubman  ***	5	2015-nan	Tetto nudo	SI	342.0	500	520	620								36.0	36.0	NO
+639	Mini	Clubman 	5	2016-nan	Profili integrati			601	507	607			857.0	957.0		730				NO
+640	Mini	Cooper  ***	5	2014-nan	Tetto nudo	SI	342.0	500	513	613										NO
+641	Mini	Cooper 	3-5	2014-nan	Profili integrati			601	507	607			857.0	957.0		730				NO
+642	Mini	Countryman  	5	2010-2017	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+643	Mini	Countryman 	5	2017-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			NO
+644	Mini	Paceman 	3	2013-2017	Profili integrati			601	507	607			857.0	957.0		730				NO
+645	Mitsubishi	 Mitsubishi		nan-nan																
+646	Mitsubishi	ASX 	5	2010-nan	Punti fissi	SI	128.0	500	513	613								9.0	40.0	SI
+647	Mitsubishi	ASX 	5	2010-nan	Profili integrati	SI	651.0	601	507	607			857.0	957.0		730				SI
+648	Mitsubishi	Attrage	4	2014-nan																SI
+649	Mitsubishi	Colt 	3-5	2004-2008																SI
+650	Mitsubishi	Colt 	3-5	2009-2012																AL-RT
+651	Mitsubishi	Eclipse Cross 	5	2018-nan	Profili integrati	SI	651.0	601	507	607			857.0	957.0		730				NV
+652	Mitsubishi	Galant SW 	5	1992-1996	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+653	Mitsubishi	Galant SW 	5	1997-2002	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+654	Mitsubishi	Grandis  	5	2003-2011	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NV
+655	Mitsubishi	L200 Double Cab 	4	1996-2005	Tetto nudo		255.0	500	520	620										NO
+656	Mitsubishi	L200 Double Cab 	4	2006-2015	Tetto nudo		271.0	500	513	613										NO
+657	Mitsubishi	L200 Double Cab 	4	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+658	Mitsubishi	L200 Single Cab 	2	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+659	Mitsubishi	Lancer 	4-5	2008-nan	Punti fissi	SI	128.0	500	513	613								9.0	40.0	NO
+660	Mitsubishi	Lancer Evo 10	4	2008-2016	Punti fissi	SI	128.0	500	513	613								9.0	40.0	NO
+661	Mitsubishi	Outlander   	5	2003-2007	Barre lungitudinali	SI	411.0	600	542	642					515.0					NO
+662	Mitsubishi	Outlander 	5	2005-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL
+663	Mitsubishi	Outlander 	5	2013-nan	Profili integrati	SI	651.0	601	513	613			865.0	965.0		730				AL
+664	Mitsubishi	Pajero 	5	1991-1999	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			NO
+665	Mitsubishi	Pajero 	5	2000-2006	Barre lungitudinali			600	520	620	830.0	930.0			530.0		● ○			NO
+666	Mitsubishi	Pajero 	3-5	2006-nan	Barre lungitudinali			600	520	620	830.0	930.0			530.0		● ○			NO
+667	Mitsubishi	Pajero 	5	2006-nan	Tetto nudo		291.0	500	526	626										NO
+668	Mitsubishi	Pajero Pinin 	5	1999-2007	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+669	Mitsubishi	Pajero Sport 	5	1998-2006	Tetto nudo		255.0	500	520	620								35.0	35.0	NO
+670	Mitsubishi	Pajero Sport 	5	1998-2008	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+671	Mitsubishi	Pajero Sport 	5	2009-2016	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+672	Mitsubishi	Sigma SW 	5	1993-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+673	Mitsubishi	Space Runner 	5	1991-1998	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+674	Mitsubishi	Space Star  	5	1998-2001	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			AL-RT
+675	Mitsubishi	Space Star  	5	2002-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+676	Mitsubishi	Space Star 	5	2013-nan																AL
+677	Mitsubishi	Space Wagon 	3-5	1991-2003	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+678	Mitsubishi	Triton Double Cab 	4	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+679	Mitsubishi	Triton Single Cab 	2	2016-nan	Punti fissi	SI	125.0	500	507	607									86.0	NO
+680	Nissan	 Nissan		nan-nan																
+681	Nissan	Almera 	4	1995-2000	Tetto nudo													21.0	21.0	NO
+682	Nissan	Almera 	4	2000-2006																SI
+683	Nissan	Almera SW 	5	1999-2006	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+684	Nissan	Almera Tino 	5	2000-2006																AL-RT
+685	Nissan	Juke 	5	2010-2019	Tetto nudo	NO	265.0	500	513	613								23.0	57.0	NO
+686	Nissan	Juke 	5	2010-2019	Tetto nudo	SI												23.0	57.0	NO
+687	Nissan	Juke 	5	2019-nan	Tetto nudo	NV													80.0	NV
+688	Nissan	Kubistar 	3-5	2003-2009	Punti fissi	SI	102.0	500	507	607								6.0	6.0	NO
+689	Nissan	Micra 	3	1992-2003	Tetto nudo													52.0	52.0	SI
+690	Nissan	Micra 	5	1992-2003	Tetto nudo													25.0	25.0	SI
+691	Nissan	Micra 	3-5	2003-2011																AL-RT
+692	Nissan	Micra 	5	2010-2017	Tetto nudo	SI												23.0	23.0	SI
+693	Nissan	Micra 	5	2017-nan	Tetto nudo		324.0	500	513	613									94.0	AL
+694	Nissan	Murano 	5	2005-2014	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+695	Nissan	Navara  	4	2004-2015	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+696	Nissan	Navara 	4	2016-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+697	Nissan	Note 	5	2004-2014	Tetto nudo	SI												23.0	35.0	AL-RT
+698	Nissan	Note 	5	2012-nan	Tetto nudo	NO	306.0	500	520	620										RT
+699	Nissan	Patfhinder 	5	2014-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NV
+700	Nissan	Patrol 	5	1998-2010	Barre lungitudinali	SI		600	542	642					530.0					NO
+701	Nissan	Pixo 	5	2009-2014	Tetto nudo	NO												33.0	33.0	AL
+702	Nissan	Primera 	5	1990-1996	Tetto nudo													21.0	21.0	NO
+703	Nissan	Primera SW 	5	1991-2007	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+704	Nissan	Pulsar 	5	2014-nan	Tetto nudo		324.0	500	520	620										NO
+705	Nissan	Qashqai 	5	2007-2014	Tetto nudo	NO	235.0	500	520	620										AL
+706	Nissan	Qashqai 	5	2007-2014	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			AL
+707	Nissan	Qashqai 	5	2014-nan	Tetto nudo	NV	312.0	500	526	626									84.0	NO
+708	Nissan	Qashqai 	5	2014-nan	Barre lungitudinali	SI		600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0	530.0	730	● ○			NO
+709	Nissan	Qashqai+2 	5	2007-2014	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+710	Nissan	Terrano  	5	1986-1996	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+711	Nissan	Terrano 	5	1993-2006	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+712	Nissan	X-Trail 	5	2001-2014	Profili a T	SI	406.0	600	542	642	830.0	930.0								AA-AB-AL-RT-2B
+713	Nissan	X-Trail 	5	2014-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+714	Opel	 Opel		nan-nan																
+715	Opel	Adam	3	2013-2019	Punti fissi	SI	222.0	500	507	607								70.0	69.0	AL-AB
+716	Opel	Agila A	5	2000-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+717	Opel	Agila B	5	2008-2015	Tetto nudo	SI	237.0	500	507	607										AL-RT
+718	Opel	Antara	5	2006-2015	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+719	Opel	Astra F	3-5	1991-1998	Punti fissi	SI	213.0	500	507	607								28.0	28.0	NO
+720	Opel	Astra F SW	5	1991-1998	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+721	Opel	Astra G	3-5	1998-2004	Punti fissi	SI	213.0	500	507	607								28.0	28.0	NO
+722	Opel	Astra G SW	5	1998-2004	Punti fissi	SI	213.0	500	507	607								28.0	28.0	SI
+723	Opel	Astra G SW	5	1998-2004	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+724	Opel	Astra H	3	2004-2011	Punti fissi	SI	107.0	500	507	607								14.0	47.0	AL-2B
+725	Opel	Astra H	5	2004-2011	Punti fissi	SI	107.0	500	507	607								14.0	47.0	AL-2B
+726	Opel	Astra H SW	5	2004-2011	Punti fissi	SI	107.0	500	507	607								14.0	47.0	AL-2B
+727	Opel	Astra H SW*	5	2004-2007	Profili integrati	SI	402.0	600	513	613	815.0	915.0								AL-2B
+728	Opel	Astra H SW**	5	2007-2011	Profili integrati	SI	409.0	600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0		715				AL-2B
+729	Opel	Astra J	3-5	2009-2015	Punti fissi	SI	222.0	500	507	607								70.0	70.0	AL-2B
+730	Opel	Astra J Berlina	4	2012-2018	Punti fissi	SI	222.0	500	507	607								70.0	70.0	NV
+731	Opel	Astra J SW	5	2010-2015	Profili integrati	SI	405.0	600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0		715				AL-2B
+732	Opel	Astra K	5	2015-nan	Tetto nudo	SI	328.0	500	520	620								65.0	65.0	NO
+733	Opel	Astra Twin Top	2	2006-2011																AB
+734	Opel	Calibra	3	1990-1997	Punti fissi	SI	213.0	500	507	607								28.0	28.0	NO
+735	Opel	Combo C	3	2001-2012	Punti fissi	SI	102.0	500	513	613								6.0	2.0	NO
+736	Opel	Combo D	5	2012-2018	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+737	Opel	Combo E	3-5	2018-nan	Barre lungitudinali	SI	655.0	601	513	613			865.0	965.0	530.0	 				NV
+738	Opel	Corsa B	3-5	1993-2000	Punti fissi	SI	213.0	500	507	607								28.0	28.0	AL
+739	Opel	Corsa B SW	5	1993-2000	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			AL
+740	Opel	Corsa C	3-5	2000-2006	Punti fissi	SI	213.0	500	507	607								28.0	28.0	AL-RT
+741	Opel	Corsa D	3-5	2006-2015	Punti fissi	SI	222.0	500	507	607								70.0	69.0	AL
+742	Opel	Corsa E	3-5	2015-2019	Punti fissi	SI	222.0	500	507	607								70.0	69.0	AL
+743	Opel	Corsa F	5	2019-nan	Tetto nudo	NV	371.0	500	513	613								89.0	75.0	AL
+744	Opel	Crossland X	5	2017-nan	Tetto nudo	NO	348.0	500	520	620								65.0	65.0	NO
+745	Opel	Crossland X	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+746	Opel	Frontera	5	1991-2004	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+747	Opel	Grandland X	5	2017-nan	Tetto nudo	NV	365.0	500	520	620								75.0	75.0	NO
+748	Opel	Grandland X	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+749	Opel	Insignia A	4	2008-2017	Tetto nudo	SI	287.0	500	526	626								65.0	65.0	SI
+750	Opel	Insignia A SW	5	2009-2017	Profili integrati	SI	407.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				NO
+751	Opel	Insignia B SW	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+752	Opel	Kadett E	3-5	1984-1991	Punti fissi	SI	213.0	500	520	620								28.0	28.0	NO
+753	Opel	Kadett E SW	5	1984-1991	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+754	Opel	Karl	5	2015-2019																AL
+755	Opel	Karl Rocks	5	2017-2019	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+756	Opel	Meriva A	5	2003-2010	Punti fissi	SI	222.0	500	507	607								70.0	69.0	AL-RT
+757	Opel	Meriva B	5	2010-2017	Punti fissi	SI	222.0	500	513	613								70.0	69.0	AL
+758	Opel	Mokka \ Mokka X	5	2013-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				SI
+759	Opel	Omega A SW	5	1986-1994	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+760	Opel	Omega B SW	5	1994-2006	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+761	Opel	Signum	5	2003-2008	Punti fissi	SI	222.0	500	520	620										AL-AB-RT
+762	Opel	Signum	5	2003-2008	Profili integrati	SI	402.0	600	526	626	830.0	930.0								AL-AB-RT
+763	Opel	Sintra	5	1996-1999	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+764	Opel	Tigra A	3	1994-2000	Punti fissi	SI	213.0	500	507	607								28.0	28.0	NO
+765	Opel	Tigra Twin Top	2	2003-2009																AL
+766	Opel	Vectra A	4	1988-1995	Tetto nudo													34.0		SI
+767	Opel	Vectra B SW	5	1996-2003	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+768	Opel	Vectra C	4	2002-2008	Punti fissi	SI	222.0	500	513	613										AB
+769	Opel	Vectra C	5	2002-2008	Profili integrati	SI	402.0	600	526	626	830.0	930.0								AB
+770	Opel	Zafira A	5	1999-2005	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+771	Opel	Zafira B *	5	2005-2007	Profili integrati	SI	402.0	600	526	626	830.0	930.0								AL
+772	Opel	Zafira B **	5	2007-2014	Profili integrati	SI	409.0	600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0		730				AL
+773	Opel	Zafira B Cosmo	5	2007-2011	Punti fissi	SI	107.0	500	513	613								14.0	14.0	AL
+774	Opel	Zafira C 	5	2011-2018	Punti fissi	SI	222.0	500	513	613								70.0	69.0	AL-2B
+775	Opel	Zafira C 	5	2011-2018	Profili integrati	SI	405.0	600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0		730				AL-2B
+776	Peugeot	 Peugeot		nan-nan																
+777	Peugeot	1007	3	2005-2010	Tetto nudo		269.0	500	520	620										AL
+778	Peugeot	1007	3	2005-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+779	Peugeot	106	3	1991-2003	Tetto nudo													52.0	52.0	NO
+780	Peugeot	106	5	1991-2003	Tetto nudo													25.0	25.0	NO
+781	Peugeot	107	5	2005-2014	Tetto nudo	SI												21.0	49.0	NO
+782	Peugeot	108	5	2014-nan	Tetto nudo	NO	366.0	500	507	607								25.0	59.0	AL-AB-2B
+783	Peugeot	108	5	2014-nan	Tetto nudo	SI												25.0	59.0	AL-AB-2B
+784	Peugeot	2008	5	2013-2019	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+785	Peugeot	205	5	1983-1998	Tetto nudo													25.0	25.0	SI
+786	Peugeot	206	5	1998-2012	Tetto nudo		219.0	500	507	607								30.0	30.0	AL
+787	Peugeot	206 cc	2	2000-2007																RT
+788	Peugeot	206 SW	5	2002-2013	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-AA-2B
+789	Peugeot	207	3-5	2006-2015	Punti fissi	SI	122.0	500	507	607								5.0	5.0	AL
+790	Peugeot	207 SW	5	2007-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+791	Peugeot	208	3	2012-2019	Tetto nudo	NO	275.0	500	513	613								66.0	66.0	AL
+792	Peugeot	208	3	2012-2019	Tetto nudo	SI												66.0	66.0	AL
+793	Peugeot	208	5	2012-2019	Tetto nudo	NO	274.0	500	513	613								65.0	65.0	AL
+794	Peugeot	208	5	2012-2019	Tetto nudo	SI												65.0	65.0	AL
+795	Peugeot	208	5	2019-nan	Tetto nudo	NO	371.0	500	513	613								89.0	75.0	AL
+796	Peugeot	3008	5	2009-2016	Punti fissi	SI	122.0	500	520	620									16.0	RT
+797	Peugeot	3008	5	2016-nan	Tetto nudo	NV	363.0	500	520	620								75.0	75.0	NO
+798	Peugeot	3008***	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+799	Peugeot	306	5	1994-2002	Tetto nudo													26.0	26.0	NO
+800	Peugeot	306 SW	5	1994-2002	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+801	Peugeot	307	3-5	2001-2009	Punti fissi	SI	104.0	500	507	607								4.0	4.0	AL
+802	Peugeot	307 cc	2	2003-2009																RT
+803	Peugeot	307 SW	5	2002-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+804	Peugeot	308	3-5	2007-2013	Punti fissi	SI	122.0	500	513	613								4.0	16.0	SI
+805	Peugeot	308	5	2013-nan	Tetto nudo	NO	347.0	500	520	620								75.0	75.0	NO
+806	Peugeot	308 SW	5	2008-2014	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-2B
+807	Peugeot	308 SW	5	2014-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				AL-AA-2B
+808	Peugeot	308 SW	5	2016-nan	Tetto nudo	NO	347.0	500	520	620								75.0	75.0	NO
+809	Peugeot	4007	5	2007-2012	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+810	Peugeot	4008	5	2012-2017	Punti fissi	SI	128.0	500	513	613								9.0	40.0	AA-AB-AL
+811	Peugeot	4008	5	2012-2017	Profili integrati	SI	651.0	601	507	607			857.0	957.0		730				AA-AB-AL
+812	Peugeot	405	4	1987-1996	Tetto nudo													27.0	27.0	NO
+813	Peugeot	405 SW	5	1988-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+814	Peugeot	406	4	1995-2005	Tetto nudo													26.0	26.0	SI
+815	Peugeot	406 SW	5	1997-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+816	Peugeot	407	3-4	2004-2012	Punti fissi	SI	122.0	500	507	607								5.0	5.0	SI
+817	Peugeot	407 SW	5	2004-2012	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL-RT
+818	Peugeot	5008 	5	2009-2016	Punti fissi	SI	122.0	500	520	620									16.0	AL-RT
+819	Peugeot	5008 ***	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+820	Peugeot	505 SW	5	1980-1992	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+821	Peugeot	508	4	2011-2018	Tetto nudo	NO	286.0	500	520	620								65.0	65.0	NO
+822	Peugeot	508 SW  	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NV
+823	Peugeot	508 SW / 508 RXH	5	2011-2018	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+824	Peugeot	607	4	2000-2010																SI
+825	Peugeot	806	5	1994-2002	Profili a T	SI	406.0	600	526	626	830.0	930.0								NO
+826	Peugeot	807	5	2002-2010	Tetto nudo		304.0	500	542	642										NO
+827	Peugeot	807	5	2002-2010	Profili a T	SI	406.0	600	542	642	830.0	930.0								NO
+828	Peugeot	Bipper	3-5	2007-nan	Punti fissi	SI	102.0	500	526	626								7.0	7.0	AL
+829	Peugeot	Bipper	3-5	2007-nan	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			AL
+830	Peugeot	Partner - Ranch	3-5	1996-2008	Tetto nudo		209.0	500	507	607								22.0	22.0	NO
+831	Peugeot	Partner I	5	2001-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+832	Peugeot	Partner II	3-5	2008-2018	Punti fissi	SI	129.0	500	520	620										SI
+833	Peugeot	Partner II	5	2008-2018	Barre lungitudinali	SI		600	542	642					530.0					SI
+834	Peugeot	Partner III/Rifter	3-5	2018-nan	Barre lungitudinali	Si	655.0	601	513	613			865.0	965.0	530.0	 				NV
+835	Porsche	 Porsche		nan-nan																
+836	Porsche	Cayenne  	5	2002-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+837	Porsche	Cayenne  	5	2002-2009	Profili a T	SI	406.0	600	542	642										NO
+838	Porsche	Cayenne 	5	2010-2017	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+839	Porsche	Cayenne 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				NO
+840	Porsche	Macan 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+841	Renault	 Renault		nan-nan																
+842	Renault	Alaskan	4	2016-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+843	Renault	Captur I	5	2013-2019	Tetto nudo		302.0	500	513	613								65.0	65.0	NO
+844	Renault	Captur II	5	2019-nan	Tetto nudo	NV													75.0	NV
+845	Renault	Captur II	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0						NV
+846	Renault	Clio I	5	1990-1998	Tetto nudo													29.0	29.0	NO
+847	Renault	Clio II \ Clio Storia	5	1998-2005	Tetto nudo													21.0	21.0	AL
+848	Renault	Clio III	3	2005-2012	Punti fissi	SI	352.0	500	507	607										AL-RT
+849	Renault	Clio III	5	2005-2012	Punti fissi	NV	350.0	500	507	607								88.0	88.0	AL-RT
+850	Renault	Clio III	5	2005-2012	Punti fissi	SI	350.0	500	507	607										AL-RT
+851	Renault	Clio III SW	5	2005-2008	Barre lungitudinali	SI	412.0	600	526	626	830.0	930.0			515.0		● ○			AL
+852	Renault	Clio III SW	5	2008-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+853	Renault	Clio IV	5	2012-nan	Tetto nudo	NO	282.0	500	513	613								65.0	65.0	NO
+854	Renault	Clio IV	5	2012-nan	Tetto nudo	SI												65.0	65.0	NO
+855	Renault	Clio IV SW	5	2013-2020	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+856	Renault	Clio V	5	2019-nan	Tetto nudo	NV	374.0	500	513	613								84.0	84.0	NV
+857	Renault	Espace	5	1984-1990	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+858	Renault	Espace	5	1996-2002	Profili a T	SI	406.0	600	542	642	830.0	930.0								NO
+859	Renault	Espace	5	2002-2014	Profili a T	SI	406.0	600	542	642										AL-RT
+860	Renault	Espace	5	2015-nan	Tetto nudo	SI	327.0	500	542	642										NO
+861	Renault	Express	5	1992-1997	Barre lungitudinali	SI		600	542	642	830.0	930.0					● ○			NO
+862	Renault	Grand Modus	5	2008-2013	Punti fissi	NV	301.0	500	513	613								51.0		AL-AB-2B
+863	Renault	Grand Scenic	5	2003-2009	Punti fissi	SI	101.0	500	507	607								1.0	1.0	AL-2B-RT
+864	Renault	Grand Scenic	5	2009-2016	Tetto nudo	SI	227.0	500	520	620										AL-2B-RT
+865	Renault	Grand Scenic	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+866	Renault	Kadjar	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				SI
+867	Renault	Kangoo I	3-5	1998-2007	Punti fissi	SI	102.0	500	507	607								6.0	6.0	NO
+868	Renault	Kangoo II	3-5	2008-nan	Punti fissi	SI	102.0	500	513	613								6.0	2.0	NO
+869	Renault	Koleos I	5	2008-2017	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL-2B
+870	Renault	Koleos II	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+871	Renault	Laguna I	5	1993-2001	Tetto nudo													24.0	44.0	NO
+872	Renault	Laguna I SW	5	1996-2000	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AB-RT
+873	Renault	Laguna II	5	2001-2007	Tetto nudo													21.0	49.0	SI
+874	Renault	Laguna II SW	5	2001-2007	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AB-RT
+875	Renault	Laguna III SW	5	2007-2015	Barre lungitudinali	SI	412.0	600	526	626	830.0	930.0			515.0		● ○			NO
+876	Renault	Megane I	5	1996-2002	Tetto nudo													23.0	23.0	NO
+877	Renault	Megane I SW	5	1999-2003	Punti fissi	SI												28.0		NO
+878	Renault	Megane II	3-5	2002-2010	Punti fissi	SI	101.0	500	507	607								1.0	1.0	NO
+879	Renault	Megane II	4	2002-2010	Punti fissi	SI	101.0	500	507	607								1.0	1.0	NO
+880	Renault	Megane II SW	5	2003-2009	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AA-AL-2B
+881	Renault	Megane III	5	2008-2015	Tetto nudo	NO	232.0	500	513	613								65.0	65.0	AL-RT
+882	Renault	Megane III SW	5	2009-2016	Tetto nudo	NO	232.0	500	513	613										AL-AB-2B-RT
+883	Renault	Megane III SW	5	2009-2016	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-AB-2B-RT
+884	Renault	Megane IV	5	2016-nan	Tetto nudo	NO	344.0	500	520	620								65.0	65.0	NO
+885	Renault	Megane Sporter / Grandtour	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+886	Renault	Modus	5	2004-2013	Punti fissi	NV	301.0	500	513	613								51.0		AL-AB-2B
+887	Renault	R19	5	1988-1995	Tetto nudo													29.0	29.0	NO
+888	Renault	R21	5	1989-1994	Tetto nudo													21.0	21.0	NO
+889	Renault	Scenic I	5	1996-2003	Punti fissi	SI	213.0	500	507	607								28.0	28.0	SI
+890	Renault	Scenic I	5	1996-2003	Tetto nudo		213.0	500	507	607								28.0	28.0	SI
+891	Renault	Scenic II	5	2003-2009	Punti fissi	SI	101.0	500	507	607								1.0	1.0	AL-RT
+892	Renault	Scenic II Conquest 	5	2007-2009	Barre lungitudinali	SI		600	526	626	830.0	930.0					● ○			AL-RT
+893	Renault	Scenic III	5	2009-2016	Tetto nudo	NO	227.0	500	520	620								65.0	65.0	AL-RT
+894	Renault	Scenic III	5	2009-2016	Tetto nudo	SI												65.0	65.0	AL-RT
+895	Renault	Scenic III	5	2009-2016	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+896	Renault	Scenic III X-Mod	5	2009-2016	Tetto nudo	NO	227.0	500	520	620								65.0	65.0	AL-RT
+897	Renault	Scenic III X-Mod	5	2009-2016	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-RT
+898	Renault	Scenic IV	5	2017-nan	Tetto nudo	NO	338.0	500	526	626										NO
+899	Renault	Talisman	4	2016-nan	Tetto nudo		349.0	500	520	620								65.0	65.0	SI
+900	Renault	Talisman SW	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+901	Renault	Twingo I	3	1993-2007																SI
+902	Renault	Twingo II	3	2007-2014																SI
+903	Renault	Twingo III	5	2014-nan	Tetto nudo		323.0	500	513	613								65.0	65.0	NO
+904	Rover	 Rover		nan-nan																
+905	Rover	200 	3	1995-1999																SI
+906	Rover	25 	3-5	1999-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0					● ○			SI
+907	Rover	600 	4	1993-1999	Tetto nudo													23.0	23.0	NO
+908	Rover	75 	4	1998-2005																SI
+909	Rover	75 SW 	5	2001-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			SI
+910	Saab	 Saab		nan-nan																
+911	Saab	900	4	1993-1998	Tetto nudo													34.0		NO
+912	Saab	9000	4	1985-1998	Tetto nudo													34.0		NO
+913	Saab	9-3 	4	2003-2013	Punti fissi	SI	130.0	500	507	607										SI
+914	Saab	9-3 SW 	5	2005-2013	Punti fissi	SI	130.0	500	507	607										AL-AA-RT
+915	Saab	9-3 SW 	5	2005-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-AA-RT
+916	Saab	9-3 X	5	2009-2013	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+917	Saab	9-5 	4	1997-2010	Tetto nudo	NO												34.0		NO
+918	Saab	9-5 SW 	5	1999-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+919	Saab	9-7 X	5	2006-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+920	Seat	 Seat		nan-nan																
+921	Seat	Alhambra 	5	1996-2000	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+922	Seat	Alhambra 	5	2000-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+923	Seat	Alhambra 	5	2010-2020	Barre lungitudinali	SI		600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0	530.0	730	● ○			AL
+924	Seat	Altea 	5	2004-2015	Tetto nudo													36.0	36.0	AL-2B
+925	Seat	Altea Freetrack 	5	2007-2015	Profili integrati	SI	404.0	600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0		715				AL-2B
+926	Seat	Altea XL 	5	2006-2015	Profili integrati	SI	404.0	600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0		715				AL-2B
+927	Seat	Arona 	5	2017-nan	Barre lungitudinali	SI		600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			NO
+928	Seat	Arosa 	3	1997-2005	Tetto nudo													23.0	57.0	NO
+929	Seat	Ateca 	5	2016-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			SI
+930	Seat	Exeo 	4	2009-2013																SI
+931	Seat	Exeo SW 	5	2009-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+932	Seat	Ibiza 	5	1984-1993	Tetto nudo													25.0	25.0	NO
+933	Seat	Ibiza 	3	2008-2017																AL
+934	Seat	Ibiza 	5	2008-2017	Tetto nudo		217.0	500	513	613								64.0	64.0	AL
+935	Seat	Ibiza 	3-5	1993-2002																SI
+936	Seat	Ibiza 	3	2002-2008	Tetto nudo	NO	252.0	500	507	607								63.0	63.0	AA-AL
+937	Seat	Ibiza 	5	2002-2008	Tetto nudo	NO	252.0	500	507	607								63.0	63.0	AA-AL
+938	Seat	Ibiza 	5	2017-nan	Tetto nudo		346.0	500	520	620								87.0	87.0	2B
+939	Seat	Ibiza SW 	5	2010-2017	Profili integrati	SI	404.0	600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0		715				AL
+940	Seat	Leon 	5	2005-2012	Tetto nudo	NO	254.0	500	520	620								36.0	36.0	AL-2B
+941	Seat	Leon 	5	2005-2012	Tetto nudo	SI												36.0	36.0	AL-2B
+942	Seat	Leon 	5	2013-2020	Tetto nudo	NO	298.0	500	520	620								66.0	66.0	AL-2B
+943	Seat	Leon 	5	2020-nan	Tetto nudo	NO													77.0	NV
+944	Seat	Leon SW 	5	2014-2020	Profili integrati	SI	404.0	600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0		715				2B
+945	Seat	Leon SW	5	2020-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+946	Seat	Marbella 	3	1986-1998	Tetto nudo													52.0	60.0	NO
+947	Seat	Mii 	5	2012-nan	Tetto nudo	SI												36.0	36.0	AL-2B
+948	Seat	Tarraco	5	2019-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			NV
+949	Seat	Toledo 	5	1991-1999	Punti fissi	SI												28.0	28.0	NO
+950	Seat	Toledo 	5	2004-2009	Tetto nudo	NO												36.0	36.0	NO
+951	Seat	Toledo 	4	2013-2019	Tetto nudo		292.0	500	520	620								35.0	35.0	NO
+952	Skoda	 Skoda		nan-nan																
+953	Skoda	Citigo	5	2012-nan	Tetto nudo	SI												36.0	36.0	AL-AB-RT-2B
+954	Skoda	Fabia  	5	1999-2007	Punti fissi	SI	222.0	500	507	607								70.0	70.0	AL
+955	Skoda	Fabia 	5	2007-2014	Tetto nudo		272.0	500	513	613								41.0	41.0	AL-2B
+956	Skoda	Fabia 	5	2015-nan	Tetto nudo	NO	345.0	500	513	613								73.0	72.0	AL
+957	Skoda	Fabia Scout 	5	2009-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL-2B
+958	Skoda	Fabia SW  	5	2000-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+959	Skoda	Fabia SW 	5	2007-2014	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-2B
+960	Skoda	Fabia SW 	5	2015-nan	Barre lungitudinali	SI		600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			SI
+961	Skoda	Felicia SW 	5	1995-2001	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+962	Skoda	Kamiq	5	2019-nan	Barre lungitudinali	SI		600 / 601	507 / 507	607 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			NO
+963	Skoda	Karoq 	5	2018-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0					2B
+964	Skoda	Kodiaq 	5	2017-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AB-2B
+965	Skoda	Octavia 	4	1996-2004	Punti fissi	SI	222.0	500	526	626										SI
+966	Skoda	Octavia 	4	2013-2019	Tetto nudo		299.0	500	520	620										NO
+967	Skoda	Octavia SW 	5	1998-2004	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+968	Skoda	Octavia SW 	5	2004-2012	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+969	Skoda	Octavia SW 	5	2013-2020	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-2B
+970	Skoda	Octavia SW 	5	2020-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+971	Skoda	Rapid 	4	2013-2019	Tetto nudo	NO	292.0	500	520	620								35.0	35.0	NO
+972	Skoda	Roomster 	5	2006-2015	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-RT
+973	Skoda	Roomster Praktik 	5	2007-2015	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+974	Skoda	Roomster Scout 	5	2009-2015	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			AL-RT
+975	Skoda	Scala	5	2019-nan	Tetto nudo	NV	383.0	500	520	620									84.0	NV
+976	Skoda	Superb SW 	5	2010-2015	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+977	Skoda	Superb SW 	5	2015-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			NO
+978	Skoda	Yeti 	5	2009-2017	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0					SI
+979	Smart	 Smart		nan-nan																
+980	Smart	ForFour	5	2004-2014																AL-RT
+981	Ssangyong	 Ssangyong		nan-nan																
+982	Ssangyong	Korando	3	1997-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NV
+983	Ssangyong	Korando	5	2010-2014	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+984	Ssangyong	Korando	5	2014-2019	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+985	Ssangyong	Korando	5	2019-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+986	Ssangyong	Kyron	5	2005-2011	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NV
+987	Ssangyong	Musso	5	1995-2006	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+988	Ssangyong	Musso II	2-4	2018-nan	Barre lungitudinali	SI	655.0	601	507	607			857.0	957.0	530.0	 				NO
+989	Ssangyong	Rexton I	5	2001-2006	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NO
+990	Ssangyong	Rexton II	5	2007-2013	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+991	Ssangyong	Rexton III	5	2013-2017	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+992	Ssangyong	Rexton IV	5	2017-nan	Barre lungitudinali	SI	655.0	601	507	607			857.0	957.0	530.0	 				NV
+993	Ssangyong	Rodius	5	2004-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NV
+994	Ssangyong	Rodius	5	2013-2019	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NV
+995	Ssangyong	Tivoli	5	2015-nan	Tetto nudo	SI	288.0	500	520	620								36.0	36.0	SI
+996	Ssangyong	Tivoli	5	2015-nan	Profili integrati	SI	656.0	601	507	607			857.0	957.0		715				NO
+997	Ssangyong	XLV	5	2016-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+998	Subaru	 Subaru		nan-nan																
+999	Subaru 	XV E-Boxer	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1000	Subaru	Forester 	5	1997-2002	Profili integrati	SI		601	507	607			857.0	957.0		715				AA-AL
+1001	Subaru	Forester 	5	2008-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			SI
+1002	Subaru	Forester 	5	2013-2020	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+1003	Subaru	Impreza SW	5	1993-2010	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1004	Subaru	Impreza XV	5	2010-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			AL
+1005	Subaru	Justy 	5	2003-2007	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NV
+1006	Subaru	Legacy SW 	5	1989-2002	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AA-AL
+1007	Subaru	Legacy SW 	5	2003-2009																AA-AL
+1008	Subaru	Legacy SW 	5	2009-2015																AL
+1009	Subaru	Outback 	5	1998-2003	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AA-AL
+1010	Subaru	Outback 	5	2003-2009																AA-AL
+1011	Subaru	Outback 	5	2009-2014																AL
+1012	Subaru	Trezia	5	2011-2016	Tetto nudo	NO	257.0	500	513	613										AL
+1013	Subaru	Tribeca 	5	2008-2014	Barre lungitudinali	SI		600	542	642	830.0	930.0			530.0		● ○			NO
+1014	Subaru	XV	5	2012-2017	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+1015	Subaru	XV	5	2018-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1016	Suzuki	 Suzuki		nan-nan																
+1017	Suzuki	Alto  	3-5	1982-1985	Tetto nudo													25.0	25.0	NO
+1018	Suzuki	Alto 	5	1986-2002	Tetto nudo													25.0	25.0	NO
+1019	Suzuki	Alto 	5	2002-2009	Tetto nudo													23.0	23.0	NO
+1020	Suzuki	Alto 	5	2008-2014	Tetto nudo													33.0	33.0	AL-RT
+1021	Suzuki	Baleno 	5	1996-2002	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1022	Suzuki	Baleno 	5	2016-nan																AL
+1023	Suzuki	Celerio 	5	2015-nan																AL
+1024	Suzuki	Grand Vitara 	3-5	1998-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1025	Suzuki	Grand Vitara 	3-5	2005-2015	Profili integrati	SI	653.0	601	507	607			857.0	957.0						NO
+1026	Suzuki	Ignis 	5	2000-2008	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1027	Suzuki	Ignis 	5	2016-nan	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NV
+1028	Suzuki	Jimny 	5	1998-2018	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+1029	Suzuki	Samurai 	3	1982-1992	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1030	Suzuki	Splash 	5	2008-2015	Tetto nudo		237.0	500	507	607										AL-RT
+1031	Suzuki	Swace	5	2021-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+1032	Suzuki	Swift 	3-5	2004-2010																AL
+1033	Suzuki	Swift 	3-5	2010-2017																AL-RT
+1034	Suzuki	SX4 	5	2006-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			AL
+1035	Suzuki	SX4 S-Cross 	5	2014-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				AL-2B
+1036	Suzuki	Vitara 	5	1998-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NO
+1037	Suzuki	Vitara 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1038	Suzuki	Wagon R+ 	5	2000-2008	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			SI
+1039	Tata	 Tata		nan-nan																
+1040	Tata	Indica Aria	5	2010-2017	Tetto nudo													36.0	36.0	NO
+1041	Tata	Indigo I SW	5	2002-2009	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1042	Tata	Safari	5	1998-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+1043	Tata	Xenon 	4	2007-nan	Tetto nudo													32.0	32.0	NO
+1044	Toyota	 Toyota		nan-nan																
+1045	Toyota	4 Runner 	5	1990-1995	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1046	Toyota	Auris 	5	2007-2012																AL-2B-RT
+1047	Toyota	Auris 	5	2013-2018	Tetto nudo	SI	294.0	500	513	613								36.0	36.0	NO
+1048	Toyota	Auris SW 	5	2013-2018	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1049	Toyota	Avensis 	4-5	1997-2003	Tetto nudo	NO												44.0	44.0	NO
+1050	Toyota	Avensis 	4-5	2003-2009	Tetto nudo	NO												24.0	24.0	RT
+1051	Toyota	Avensis 	4	2009-2015																SI
+1052	Toyota	Avensis SW 	5	1997-2008	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+1053	Toyota	Avensis SW 	5	2011-2018																AL-2B
+1054	Toyota	Avensis Verso	5	2001-2006	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NV
+1055	Toyota	Aygo 	5	2005-2014	Tetto nudo	SI												21.0	49.0	NO
+1056	Toyota	Aygo 	5	2014-nan	Tetto nudo	NO	256.0	500	507	607								25.0	59.0	NO
+1057	Toyota	Aygo 	5	2014-nan	Tetto nudo	SI												25.0	59.0	NO
+1058	Toyota	Carina 	5	1987-1993	Tetto nudo													24.0	44.0	NO
+1059	Toyota	Carina SW 	5	1988-1997	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1060	Toyota	C-HR	5	2017-nan	Tetto nudo	NV	357.0	500	513	613										NO
+1061	Toyota	Corolla 	5	2019-nan	Tetto nudo	NV	373.0	500	513	613									98.0	NV
+1062	Toyota	Corolla SW 	5	1993-1999	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1063	Toyota	Corolla SW 	5	2000-2001	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1064	Toyota	Corolla SW 	5	2002-2006	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1065	Toyota	Corolla SW 	5	2019-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NV
+1066	Toyota	Corolla Verso  	5	2002-2006	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-RT
+1067	Toyota	Corolla Verso 	5	2004-2009	Tetto nudo	SI	253.0	500	526	626										AL-RT
+1068	Toyota	Corolla Verso 	5	2007-2009	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			AL-RT
+1069	Toyota	Hilux	4	2005-2015	Tetto nudo		297.0	500	526	626								32.0	32.0	NO
+1070	Toyota	Land Cruiser  90	3	1996-2003	Barre lungitudinali	SI		600	542	642					530.0					NO
+1071	Toyota	Land Cruiser  90	5	1996-2003	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1072	Toyota	Land Cruiser 100	5	1990-2001	Barre lungitudinali	SI		600	542	642					530.0					NO
+1073	Toyota	Land Cruiser 120	5	2002-2009	Punti fissi	SI	295.0	500	513	613										NO
+1074	Toyota	Land Cruiser 120	5	2003-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NO
+1075	Toyota	Land Cruiser 125	3	2003-2009	Barre lungitudinali	SI		600	520	620	830.0	930.0			530.0		● ○			NO
+1076	Toyota	Land Cruiser 150	5	2009-nan	Punti fissi	SI	295.0	500	513	613										NO
+1077	Toyota	Land Cruiser 150	5	2009-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+1078	Toyota	Land Cruiser 155	3	2009-nan	Punti fissi	SI	295.0	500	513	613										NO
+1079	Toyota	Land Cruiser 155	3	2009-nan	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+1080	Toyota	Land Cruiser 500	5	2005-nan	Barre lungitudinali	SI		600	542	642					530.0					NO
+1081	Toyota	Mirai	4	2015-nan																SI
+1082	Toyota	Picnic	5	1996-2001	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			AL-RT
+1083	Toyota	Previa 	5	2000-2006	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1084	Toyota	Prius+ 	5	2012-nan	Tetto nudo	SI	285.0	500	520	620								24.0	24.0	NO
+1085	Toyota	Proace City Verso	3-5	2020-nan	Barre lungitudinali	SI	655.0	601	513	613			865.0	965.0	530.0	 				NV
+1086	Toyota	Rav4 	3-5	2000-2006	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			NO
+1087	Toyota	Rav4 	5	2006-2013	Tetto nudo		266.0	500	520	620										NO
+1088	Toyota	Rav4 	5	2006-2013	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1089	Toyota	Rav4 	5	2013-2018	Tetto nudo		266.0	500	520	620										NO
+1090	Toyota	Rav4 	5	2013-2018	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+1091	Toyota	Sequoia	5	2001-nan	Barre lungitudinali	SI		600	542	642					530.0					NO
+1092	Toyota	Sienna 	5	2011-nan	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+1093	Toyota	Urban Cruiser	5	2009-2014	Tetto nudo		256.0	500	513	613								23.0	57.0	AL-2B-RT
+1094	Toyota	Verso	5	2009-2017	Tetto nudo	SI	253.0	500	542	642										AL
+1095	Toyota	Verso	5	2009-2017	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL
+1096	Toyota	Verso S	5	2011-2017	Tetto nudo		257.0	500	513	613								35.0	35.0	AL
+1097	Toyota	Yaris  	5	1999-2005	Tetto nudo		237.0	500	513	613								33.0	33.0	AL-RT
+1098	Toyota	Yaris  	5	2005-2011	Tetto nudo		237.0	500	513	613								33.0	33.0	AL
+1099	Toyota	Yaris 	5	2011-2020	Tetto nudo	NO	237.0	500	507	607								33.0	33.0	AL-2B-RT
+1100	Toyota	Yaris Verso 	5	1999-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1101	Volkswagen	 Volkswagen		nan-nan																
+1102	Volkswagen	Amarok	3-5	2011-nan	Punti fissi	SI	102.0	500	520	620									7.0	NO
+1103	Volkswagen	Bora 	4	1998-2005	Tetto nudo													37.0	37.0	NO
+1104	Volkswagen	Bora SW 	5	1999-2005	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+1105	Volkswagen	Caddy III 	3-5	2003-2015	Punti fissi	SI	102.0	500	507	607								6.0	6.0	SI
+1106	Volkswagen	Caddy III 	3-5	2003-2015	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			SI
+1107	Volkswagen	Caddy IV 	3-5	2015-2020	Punti fissi	SI	102.0	500	507	607								6.0	6.0	AL
+1108	Volkswagen	Caddy IV 	3-5	2015-2020	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL
+1109	Volkswagen	Caddy IV Alltrack 	5	2016-2020	Barre lungitudinali	SI	651.0	600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL
+1110		Caddy V	3-5	2020-nan																
+1111	Volkswagen	Fox 	3	2005-2011																SI
+1112	Volkswagen	Golf III SW 	5	1993-1999	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1113	Volkswagen	Golf IV 	3	1997-2004	Tetto nudo													38.0	38.0	RT
+1114	Volkswagen	Golf IV 	5	1997-2004	Tetto nudo		264.0	500	507	607								37.0	37.0	RT
+1115	Volkswagen	Golf IV SW 	5	1999-2007	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+1116	Volkswagen	Golf V 	3	2003-2008	Tetto nudo		244.0	500	520	620										AL-RT
+1117	Volkswagen	Golf V 	5	2003-2008	Tetto nudo		244.0	500	520	620								36.0	36.0	AL-RT
+1118	Volkswagen	Golf V Cross 	5	2006-2014	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL
+1119	Volkswagen	Golf V Plus 	5	2005-2014	Tetto nudo		270.0	500	513	613								36.0	36.0	AL-2B-RT
+1120	Volkswagen	Golf V Plus 	5	2005-2014	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			AL-2B-RT
+1121	Volkswagen	Golf V SW 	5	2007-2010	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+1122	Volkswagen	Golf VI 	3	2008-2012	Tetto nudo		244.0	500	520	620										AL
+1123	Volkswagen	Golf VI 	5	2008-2012	Tetto nudo		244.0	500	520	620								36.0	36.0	AL
+1124	Volkswagen	Golf VI SW 	5	2010-2013	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AL
+1125	Volkswagen	Golf VII 	5	2012-2020	Tetto nudo	SI	290.0	500	520	620								66.0	66.0	AL-2B
+1126	Volkswagen	Golf VII Alltrack 	5	2015-2021	Barre lungitudinali	SI		600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL
+1127	Volkswagen	Golf VII Sportsvan 	5	2014-2020	Tetto nudo	SI	331.0	500	520	620										AL-2B
+1128	Volkswagen	Golf VII Sportsvan 	5	2014-2020	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL-2B
+1129	Volkswagen	Golf VII SW 	5	2013-2020	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AL-2B
+1130	Volkswagen	Golf VIII	5	2020-nan	Tetto nudo	NV	375.0	500	520	620								77.0	77.0	NV
+1131	Volkswagen	Jetta 	4	2010-2018	Tetto nudo													65.0	65.0	SI
+1132	Volkswagen	Lupo 	3	1998-2005	Tetto nudo													23.0	57.0	SI
+1133	Volkswagen	Passat Alltrack 	5	2015-2021	Barre lungitudinali	SI		601	507	607			857.0	957.0		715				AL
+1134	Volkswagen	Passat SW 	5	1980-1996	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NO
+1135	Volkswagen	Passat SW 	5	1997-2000	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			SI
+1136	Volkswagen	Passat SW 	5	2000-2005	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			SI
+1137	Volkswagen	Passat SW 	5	2005-2014	Barre lungitudinali	SI		600	513	613	815.0	915.0			515.0		● ○			AB-AL-2B
+1138	Volkswagen	Passat SW 	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				AL-2B
+1139	Volkswagen	Passat V 	4	1996-2005	Tetto nudo		262.0	500	513	613								23.0	57.0	SI
+1140	Volkswagen	Passat VI 	4	2005-2013	Tetto nudo		261.0	500	520	620								36.0	36.0	SI
+1141	Volkswagen	Passat VII 	4	2014-nan																SI
+1142	Volkswagen	Polo II Classic 	5	1981-1994	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+1143	Volkswagen	Polo II SW 	5	1981-1990	Barre lungitudinali	SI		600	520	620	815.0	915.0					● ○			NO
+1144	Volkswagen	Polo III 	3-5	1995-2001	Punti fissi	SI	222.0	500	507	607								70.0	70.0	RT
+1145	Volkswagen	Polo III SW 	5	1996-2001	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			AL
+1146	Volkswagen	Polo IV 	3	2001-2009	Tetto nudo													45.0	36.0	AL
+1147	Volkswagen	Polo IV 	5	2001-2009	Tetto nudo		236.0	500	513	613								45.0	36.0	AL
+1148	Volkswagen	Polo IV Cross 	5	2006-2009	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL
+1149	Volkswagen	Polo IV Fun 	5	2003-2005	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			NV
+1150	Volkswagen	Polo V 	5	2009-2017	Tetto nudo		231.0	500	513	613								45.0	36.0	AL-2B
+1151	Volkswagen	Polo V Cross 	5	2010-2017	Barre lungitudinali	SI		600 / 601	513 / 507	613 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL-2B
+1152	Volkswagen	Polo VI 	5	2018-nan	Tetto nudo	NV	355.0	500	513	613									95.0	AL-2B
+1153	Volkswagen	Sharan 	5	1995-2010	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			SI
+1154	Volkswagen	Sharan 	5	2010-2020	Barre lungitudinali	SI		600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0	530.0	730	● ○			AL
+1155	Volkswagen	T-Cross	5	2019-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			NO
+1156	Volkswagen	Tiguan 	5	2007-2016	Tetto nudo	NO												36.0	36.0	AL-AB-2B
+1157	Volkswagen	Tiguan 	5	2007-2016	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	815.0	915.0	857.0	957.0	515.0	715	● ○			AL-AB-2B
+1158	Volkswagen	Tiguan 	5	2016-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			AL
+1159	Volkswagen	Tiguan Allspace 	5	2016-nan	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			AL
+1160	Volkswagen	Touareg 	5	2002-2010	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			AA-AL
+1161	Volkswagen	Touareg 	5	2002-2010	Profili a T	SI	406.0	600	513	613	815.0	915.0								AA-AL
+1162	Volkswagen	Touareg 	5	2010-2018	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			AL-2B
+1163	Volkswagen	Touareg 	5	2018-nan	Profili integrati	SI		601	513	613			865.0	965.0		730				AL-2B
+1164	Volkswagen	Touran 	5	2003-2014	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			2B
+1165	Volkswagen	Touran 	5	2015-nan	Barre lungitudinali	SI		600 / 601	526 / 513	626 / 613	830.0	930.0	865.0	965.0	530.0	730	● ○			AL
+1166	Volkswagen	Transporter 	3-5	2003-2014	Punti fissi	SI	102.0	500	542	642										NO
+1167	Volkswagen	Transporter 	3-5	2003-2015	Profili a T	SI	406.0	600	542	642										NO
+1168	Volkswagen	Transporter 	3-5	2015-nan	Punti fissi	SI	102.0	500	542	642										NO
+1169	Volkswagen	Transporter 	3-5	2015-nan	Profili a T	SI	406.0	600	542	642										NO
+1170	Volkswagen	T-Roc 	5	2017-nan	Tetto nudo	NV	354.0	500	520	620								81.0	81.0	NO
+1171	Volkswagen	T-Roc 	5	2017-nan	Barre lungitudinali	SI		600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			NO
+1172	Volkswagen	Up	5	2012-nan	Tetto nudo	SI												36.0	36.0	AL-AB-2B
+1173	Volkswagen	Up Cross	5	2013-nan	Barre lungitudinali	SI		600	507	607	815.0	915.0			515.0		● ○			AL-AB-2B
+1174	Volvo	 Volvo		nan-nan																
+1175	Volvo	940	5	1990-1999	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1176	Volvo	960	5	1991-1998	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1177	Volvo	S40	4	2004-2012	Tetto nudo	NV													82.0	RT
+1178	Volvo	S60	4	2000-2009																RT
+1179	Volvo	S60	4	2010-2018	Tetto nudo	NV	370.0	500	520	620								85.0	85.0	RT
+1180	Volvo	S80 II	5	2006-2016	Tetto nudo		273.0	500	526	626										RT
+1181	Volvo	V40	5	1996-2004	Barre lungitudinali	SI		600	520	620	815.0	915.0			515.0		● ○			NO
+1182	Volvo	V40 Cross Country	5	2012-2019	Barre lungitudinali	SI		600 / 601	520 / 507	620 / 607	830.0	930.0	857.0	957.0	515.0	715	● ○			NO
+1183	Volvo	V40 II	5	2012-2019	Tetto nudo	NO	321.0	500	520	620								65.0	65.0	NO
+1184	Volvo	V50	5	2004-2012	Tetto nudo		273.0	500	520	620								35.0	35.0	AL-RT
+1185	Volvo	V50	5	2004-2012	Barre lungitudinali	SI		600	520	620	815.0	915.0			530.0		● ○			AL-RT
+1186	Volvo	V60	5	2010-2018	Tetto nudo	NO	280.0	500	520	620								79.0	79.0	NO
+1187	Volvo	V60	5	2010-2018	Tetto nudo	SI												79.0	79.0	NO
+1188	Volvo	V60	5	2010-2018	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1189	Volvo	V60	5	2018-nan	Profili integrati			601	507	607			857.0	957.0		715				NO
+1190	Volvo	V60 Cross Country	5	2015-2018	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1191	Volvo	V70	5	2007-2016	Barre lungitudinali	SI		600	526	626	830.0	930.0			515.0		● ○			NO
+1192	Volvo	V90	5	1997-1998	Barre lungitudinali	SI		600	520	620	830.0	930.0					● ○			NO
+1193	Volvo	V90	5	2016-nan	Profili integrati	SI		601	507	607			857.0	957.0		715				NO
+1194	Volvo	XC40	5	2018-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+1195	Volvo	XC60	5	2008-2017	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+1196	Volvo	XC60	5	2017-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
+1197	Volvo	XC70	5	2007-2016	Barre lungitudinali	SI		600	526	626	830.0	930.0			530.0		● ○			NO
+1198	Volvo	XC90	5	2002-2014	Barre lungitudinali	SI		600	520	620	830.0	930.0			515.0		● ○			NO
+1199	Volvo	XC90	5	2015-nan	Barre lungitudinali	SI		600 / 601	526 / 507	626 / 607	830.0	930.0	857.0	957.0	530.0	730				NO
+1200	Volvo	XC90	5	2015-nan	Profili integrati	SI		601	507	607			857.0	957.0		730				NO
