@@ -3,9 +3,6 @@ import sys,getopt
 import pandas as pd
 from dataclasses import dataclass
 
-#projct modules
-from suppliers_names import suppliers
-
 
 @dataclass
 class Supplier():
@@ -31,7 +28,9 @@ class Supplier():
     def load_csv(self):
         print('ERROR: load csv not configured')
 
-
+    def remove_inside_brakets(self):
+        print('ERROR: remove inside braketsnot configured')
+        
 @dataclass
 class Yakima(Supplier):
 
@@ -114,19 +113,19 @@ class Greenvalley(Supplier):
     
 def main(argv):
     """
-    PULIZIA DATI DEI FORNITORI
-        polimorfismo di classi
-        ogni supplier ha gli stessi metodi
-        per preprocessare i dati, ma ogni supplier
-        ha caratterstiche diverse, quindi fra di loro i metodi
-        dei fornitori avranno diversi variazioni.
+SUPPLIER DATA CLEANING
+         polymorphism of classes
+         each supplier has the same methods
+         to preprocess the data, but each supplier
+         it has different characteristics, hence the methods
+         of suppliers will have different variations.
 
-    TERMINALE  
-        usage: .py -i <inputfile> -o <outputfile>
-        python3 -f [id] -i [.csv] -o [.csv] -d 
-    -s --supplier:       supplier id or name (1:'yamaha')
-    -i --input-csv:     .csv file name 
-    -o --output-csv:    .csv file name
+     TERMINAL
+         usage: .py -i <inputfile> -o <outputfile>
+         python3 -f [id] -i [.csv] -o [.csv] -d
+     -s --supplier: supplier id or name (1: 'yamaha')
+     -i --input-csv: .csv file name
+     -o --output-csv: .csv file name 
 
     """
     
@@ -189,18 +188,6 @@ def main(argv):
         
         df_greenvalley.to_csv(supplier_greenvalley.get_output_file_path(),sep='\t') #save csv
 
-
-    elif supplier in ('pirelli'): 
-
-        supplier_pirelli = Pirelli()
-        supplier_pirelli.set_input_file_path(inputfile)        
-        supplier_pirelli.set_output_file_path(outputfile)
-        
-        df_pirelli = supplier_pirelli.load_csv() #read csv
-
-        df_pirelli.pipe(supplier_pirelli.process_datetime).pipe(supplier_pirelli.remove_inside_brakets) #pipeline
-        
-        df_pirelli.to_csv(supplier_pirelli.get_output_file_path(),sep='\t') #save csv
 
        
     else:
