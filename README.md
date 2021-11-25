@@ -24,5 +24,5 @@ pyhton3 app/suppliers-data-cleaning.py -s <supplier> -i <input file> -o <output 
   
 ### Usage
 ``` python
-python3 app/suppliers-data-cleaning.py -s supplier -i /home/moebius/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_input.csv -o /home/moebius/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_output.csv
+python3 app/suppliers-data-cleaning.py -s supplier -i /home/user/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_input.csv -o /home/user/Desktop/cleaning_suppliers_data/app/suppliers_data/yakima_output.csv
 ```
